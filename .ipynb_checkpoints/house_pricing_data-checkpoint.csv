@@ -1,0 +1,701 @@
+Sample Number,Location & Postcode,Property Type,Size(m²),Number of Bedrooms,Number of Bathrooms,Number of Parking Spaces,Built-In Robes,Laundry,Outdoor Spaces,Garage Size,Air Conditioning,Heater,Alarm,Dishwasher,Fridge,Price trends,Source
+1,"Leonay,NSW  2750",Townhouse,,3,2,1,Y,,Y,Triple,Y,Y,Y,,Y,"500,000",Realestate.com.au
+2,"Werrington, NSW 2747",House,650,3,2,,,,,,,Y,Y,Y,,"750,000",Realestate.com.au
+3,"Regentville,NSW 2745",Apartment,250,2,1,1,,Y,,Single,Y,Y,Y,Y,,"350,000",Realestate.com.au
+4,"Regentville,NSW 2745",Townhouse,,3,2,2,,,Y,Triple,Y,Y,Y,Y,,"600,000",Realestate.com.au
+5,"Emu Plains,NSW 2750",Apartment,235,4,3,1,,Y,Y,Double,Y,Y,Y,Y,Y,"700,000",Realestate.com.au
+6,"Caddens,NSW 2747",Townhouse,,3,3,2,Y,,Y,Triple,Y,,Y,Y,,"425,000",Realestate.com.au
+7,"Regentville,NSW 2745",House,964,3,3,2,Y,,Y,Single,Y,Y,Y,Y,Y,,Realestate.com.au
+8,"Glenmore Park,NSW 2745",Apartment,374,3,1,2,Y,Y,,Triple,Y,Y,Y,,Y,"375,000",Realestate.com.au
+9,"Kingswood,NSW 2747",Apartment,742,2,3,,Y,Y,,,Y,Y,Y,Y,Y,"665,000",Realestate.com.au
+10,"St Marys,NSW 2749",House,499,3,1,1,Y,Y,,Double,Y,Y,Y,,Y,"367,000",Realestate.com.au
+11,"Emu Plains,NSW 2750",Apartment,714,5,1,2,Y,Y,Y,Triple,Y,Y,Y,Y,Y,,Realestate.com.au
+12,"Jamisontown,NSW 2750",Townhouse,,5,1,2,,,,Snigle,,Y,Y,Y,Y,"467,000",Realestate.com.au
+13,"Caddens,NSW 2747",Apartment,868,2,2,2,,,,Triple,Y,Y,Y,Y,Y,"1,050,000",Realestate.com.au
+14,"South Penrith,NSW 2750",Villa,885,3,3,2,Y,Y,,Double,Y,Y,Y,Y,Y,"1,263,000",Realestate.com.au
+15,"South Penrith,NSW 2750",Apartment,851,2,3,,,,Y,,Y,Y,Y,Y,Y,"495,000",Realestate.com.au
+16,"Jamisontonw,NSW 2750",House,745,4,3,1,,,Y,Double,Y,,,Y,Y,"1,256,000",Realestate.com.au
+17,"Cranebrook,NSW 2749",Townhouse,925,2,2,2,Y,Y,Y,Double,Y,Y,Y,Y,Y,"1,778,000",Realestate.com.au
+18,"Jamisontown,NSW 2750",House,583,2,1,2,Y,,,Double,Y,,Y,Y,Y,"725,000",Realestate.com.au
+19,"Werrington Downs,NSW 2747",Apartment,637,5,1,2,,Y,,Double,Y,Y,Y,Y,Y,,Realestate.com.au
+20,"Jamisontown,NSW 2750",Townhouse,446,2,2,1,Y,,Y,Triple,Y,Y,,Y,Y,"869,000",Realestate.com.au
+21,"Emu Plains,NSW 2750",Townhouse,,4,1,2,,Y,,Double,Y,,Y,Y,,"343,000",Realestate.com.au
+22,"Cranebrook,NSW 2749",House,668,4,3,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,,Realestate.com.au
+23,"Caddens,NSW 2747",Apartment,415,5,2,2,,,,Triple,Y,Y,,,Y,,Realestate.com.au
+24,"Caddens,NSW 2747",Apartment,615,3,3,,,Y,,,Y,Y,Y,Y,Y,"813,000",Realestate.com.au
+25,"Cambridge Gardens,NSW 2747",Townhouse,315,4,3,2,Y,Y,Y,Double,Y,Y,,,Y,"620,000",Realestate.com.au
+26,"St Marys,NSW 2760",Townhouse,550,2,1,1,Y,,,Single,Y,Y,,Y,Y,"810,000",Realestate.com.au
+27,"Glenmore Park,NSW 2745",Apartment,1350,3,2,2,Y,,,Double,Y,Y,Y,Y,Y,"1,364,000",Realestate.com.au
+28,"Werrington,NSW 2747",Apartment,948,3,1,2,,Y,Y,Triple,Y,Y,,Y,Y,"1,476,000",Realestate.com.au
+29,"Cambridge Gardens,NSW 2747",Townhouse,,2,1,,Y,Y,,,Y,Y,,Y,Y,"549,000",Realestate.com.au
+30,"Cranebrook,NSW 2749",Apartment,918,4,2,,,Y,,,Y,Y,,Y,Y,"714,000",Realestate.com.au
+31,"Caddens,NSW 2747",House,4,2,1,1,,,Y,Snigle,Y,Y,,Y,Y,"1,438,000",Realestate.com.au
+32,"St Marys,NSW 2760",Townhouse,,1,2,2,,,,Single,Y,Y,,Y,Y,"699,000",Realestate.com.au
+33,"St Marys,NSW 2760",House,565,2,1,2,,Y,Y,Double,Y,Y,,Y,Y,"1,297,000",Realestate.com.au
+34,"South Penrith,NSW 2750",House,914,3,1,1,,Y,,Single,,Y,,Y,Y,"1,439,000",Realestate.com.au
+35,"Emu Plains, NSW 2750",Apartment,470,2,3,2,Y,Y,,Double,,Y,,Y,Y,"1,412,000",Realestate.com.au
+36,"Penrith,NSW 2750",House,668,4,2,2,,,Y,Double,Y,Y,Y,Y,,"1,545,000",Realestate.com.au
+37,"Emu Plains,NSW 2750",House,713,2,3,2,,,Y,Triple,Y,Y,,Y,,"1,347,000",Realestate.com.au
+38,"Cambridge Gardens,NSW 2747",House,625,5,2,,Y,,,,Y,Y,,Y,Y,"1,221,000",Realestate.com.au
+39,"Leonay,NSW 2750",Townhouse,,1,2,2,Y,,Y,Double,Y,Y,,Y,Y,"855,000",Realestate.com.au
+40,"St Marys,NSW 2760",Townhouse,677,4,3,2,Y,Y,Y,Triple,Y,Y,,Y,Y,"777,000",Realestate.com.au
+41,"Glenmore Park,NSW 2745",House,557,4,1,1,,,,Double,Y,Y,,Y,Y,"950,000",Realestate.com.au
+42,"Penrith,NSW 2750",Townhouse,,3,1,2,Y,,Y,Double,Y,Y,,Y,Y,"613,000",Realestate.com.au
+43,"Jamisontown,NSW 2750",Townhouse,468,5,3,,,,Y,,Y,Y,,Y,,"890,000",Realestate.com.au
+44,"Claremont Meadows,NSW 2747",Apartment,576,3,1,1,Y,,Y,Double,,,,Y,,"1,139,000",Realestate.com.au
+45,"South Penrith, NSW 2750",House,789,3,3,,Y,,,,Y,,,Y,Y,"713,000",Realestate.com.au
+46,"South Penrith,NSW 2750",Townhouse,,3,1,2,Y,,,Double,Y,,,Y,Y,"1,444,000",Realestate.com.au
+47,"Glenmore Park,NSW 2745",Apartment,845,3,3,1,,Y,,Triple,Y,,,Y,Y,"1,577,000",Realestate.com.au
+48,"Cambridge Gardens,NSW 2747",Apartment,787,4,1,2,,Y,Y,Triple,Y,,,Y,Y,"1,887,000",Realestate.com.au
+49,"Cambridge Gardens,NSW 2747",Townhouse,,4,1,1,,,,Single,Y,,,Y,Y,"1,139,000",Realestate.com.au
+50,"Claremont Meadows,NSW 2747",Apartment,838,4,2,1,Y,,Y,Double,Y,,,Y,Y,"1,550,000",Realestate.com.au
+51,"Claremont Meadows,NSW 2747",Apartment,878,3,3,1,,,,Triple,,,,Y,Y,"1,480,000",Realestate.com.au
+52,"Regentville,NSW 2745",Townhouse,,3,1,,,Y,,,Y,,,Y,Y,"1,650,000",Realestate.com.au
+53,"Regentville,NSW 2745",House,789,3,1,2,Y,,,Snigle,,,,Y,Y,"1,543,000",Realestate.com.au
+54,"Kingswood,NSW 2747",House,543,2,1,1,,Y,Y,Double,Y,,,Y,,"446,000",Realestate.com.au
+55,"Cranebrook,NSW  2749",Apartment,825,3,1,,,,Y,,Y,Y,,Y,Y,"996,000",Realestate.com.au
+56,"Jamisontown,NSW 2750",House,529,5,1,2,Y,Y,,Double,,,,Y,Y,"1,632,000",Realestate.com.au
+57,"Emu Plains,NSW 2750",Townhouse,437,3,1,1,,Y,Y,Triple,Y,,,Y,Y,"1,182,000",Realestate.com.au
+58,"Werrington Dows,NSW 2747",House,995,5,3,,Y,Y,,,Y,,,Y,Y,"1,197,000",Realestate.com.au
+59,"Glenmore Park,NSW  2745",Apartment,455,2,2,1,,Y,Y,Double,Y,,,Y,Y,"1,478,000",Realestate.com.au
+60,"Cranebrook,NSW 2749",Apartment,747,2,2,,,,,Double,Y,,,Y,Y,"994,000",Realestate.com.au
+61,"Penrith,NSW 2750",Townhouse,787,4,1,2,Y,,Y,Triple,Y,,,Y,Y,"733,000",Realestate.com.au
+62,"Cambridge Gardens, NSW 2747",Townhouse,585,5,1,,,,Y,Triple,Y,,,Y,Y,"1,119,000",Realestate.com.au
+63,"South Penrith,NSW 2750",Townhouse,739,2,3,2,Y,Y,,Double,Y,,,Y,,,Realestate.com.au
+64,"Cranebrook,NSW 2749",Apartment,677,5,2,,Y,,Y,,Y,,,Y,Y,"1,254,000",Realestate.com.au
+65,"Glenmore Park,NSW 2745",Apartment,432,5,2,1,Y,,Y,Double,Y,,,Y,Y,"2,321,000",Realestate.com.au
+66,"Kingswood,NSW 2747",Townhouse,555,5,3,1,Y,Y,,Triple,Y,,,,Y,"1,322,000",Realestate.com.au
+67,"Caddens,NSW 2747",Townhouse,781,5,3,2,Y,Y,,Single,Y,,,Y,Y,"1,337,000",Realestate.com.au
+68,"St Marys, NSW 2760",Townhouse,864,4,2,1,,,Y,Single,Y,,,Y,Y,"967,000",Realestate.com.au
+69,"Jamisontown,NSW 2750",Apartment,931,3,3,2,Y,,Y,Triple,Y,,,Y,Y,"995,184",Realestate.com.au
+70,"Claremont Meadows,NSW 2747",Apartment,658,2,3,,,Y,,,,Y,,Y,Y,"724,000",Realestate.com.au
+71,"St Marys,NSW 2760",Townhouse,,1,1,,,Y,Y,,Y,,,Y,Y,"487,000",Realestate.com.au
+72,"Werrington Downs,NSW 2747",Apartment,555,5,3,2,,,Y,,Y,,,Y,,"1,450,000",Realestate.com.au
+73,"Leonay,NSW  2750",House,621,5,1,1,,,,Triple,Y,,,Y,Y,"1,400,000",Realestate.com.au
+74,"Glenmore Park,NSW 2745",House,692,3,2,1,Y,,,Single,Y,,,Y,Y,"1,118,000",Realestate.com.au
+75,"South Pernith, NSW 2750",Apartment,733,4,2,1,,Y,,Double,Y,,,Y,Y,"1,272,000",Realestate.com.au
+76,"Cranebrook,NSW 2749",House,733,2,2,,Y,,Y,,Y,,,Y,Y,"2,151,000",Realestate.com.au
+77,"Werrington Dows,NSW 2747",Apartment,693,2,3,1,Y,Y,Y,Triple,Y,,,Y,Y,"1,412,000",Realestate.com.au
+78,"Regentville,NSW 2745",Townhouse,653,5,3,2,Y,Y,Y,Snigle,Y,,,Y,Y,"1,200,000",Realestate.com.au
+79,"Caddens,NSW 2747",Apartment,432,3,1,2,Y,Y,Y,Double,Y,,,Y,Y,"1,144,000",Realestate.com.au
+80,"Emu Plains,NSW 2750",Apartment,491,4,2,2,,,Y,Single,Y,,,Y,Y,,Realestate.com.au
+81,"Caddens,NSW 2747",House,293,3,1,2,,,Y,Double,Y,,,Y,Y,"434,000",Realestate.com.au
+82,"Leonay,NSW 2750",Townhouse,653,2,2,,Y,,,,Y,,,Y,Y,"559,000",Realestate.com.au
+83,"Emu Plains,NSW 2750",House,748,3,2,,Y,,Y,,Y,,,Y,Y,,Realestate.com.au
+84,"Jamisontown,NSW 2750",Townhouse,882,5,1,,Y,Y,Y,,Y,,,Y,Y,"821,000",Realestate.com.au
+85,"Werrington Downs,NSW 2747",Apartment,284,1,1,2,,,Y,,Y,,,Y,Y,"471,000",Realestate.com.au
+86,"Jamisontown,NSW 2750",House,636,2,3,2,,Y,Y,Triple,Y,,,,,"1,416,000",Realestate.com.au
+87,"Claremont Meadows,NSW 2747",Townhouse,,3,1,,,,Y,Single,Y,,,Y,Y,"875,000",Realestate.com.au
+88,"Jamisontown,NSW 2750",House,962,5,1,2,Y,,,,Y,,,Y,Y,,Realestate.com.au
+89,"Kingswood,NSW 2747",Villa,324,4,3,2,Y,,Y,Single,Y,,,Y,Y,"1,250,000",Realestate.com.au
+90,"Werrington Downs,NSW 2747",House,838,2,2,,Y,,Y,Triple,Y,,,Y,Y,"888,000",Realestate.com.au
+91,"Glenmore Park,NSW 2745",Apartment,950,3,2,,Y,Y,,,Y,,,Y,Y,"925,000",Realestate.com.au
+92,"St Marys,NSW 2760",House,1246,3,3,2,Y,Y,,,Y,,,,Y,"1,235,000",Realestate.com.au
+93,"Glenmore Park,NSW 2745",House,778,2,3,1,,,,Double,Y,,,Y,Y,"768,000",Realestate.com.au
+94,"Glenmore Park,NSW 2745",House,919,4,2,2,,,,Double,Y,,,Y,Y,"817,000",Realestate.com.au
+95,"Claremont Meadows, NSW 2747",Apartment,763,3,3,2,Y,Y,Y,Single,Y,,,Y,Y,"561,000",Realestate.com.au
+96,"Kingswood,NSW 2747",Townhouse,,3,2,,,Y,,Triple,Y,,,Y,Y,"751,000",Realestate.com.au
+97,"Regentville, NSW 2745",Apartment,593,2,1,1,Y,,Y,,Y,,,Y,Y,"789,000",Realestate.com.au
+98,"Claremont Meadows,NSW 2747",Apartment,512,3,1,2,Y,,Y,Double,Y,,,Y,Y,"614,000",Realestate.com.au
+99,"Emu Plains,NSW 2750",Townhouse,,3,2,,Y,,,Triple,Y,Y,,Y,Y,"942,000",Realestate.com.au
+100,"Leonay,NSW 2750",House,678,2,3,,,Y,,Single,Y,,,Y,Y,"725,000",Realestate.com.au
+101,"Claremont Meadows,NSW 2747",Townhouse,879,3,1,1,,,,,Y,,,,Y,"975,000",Realestate.com.au
+102,"Leonay,NSW 2750",Townhouse,428,2,1,1,,,,Double,Y,,,Y,Y,"865,000",Realestate.com.au
+103,"Claremont Meadows, NSW 2747",Townhouse,,2,2,,Y,Y,Y,Single,Y,,,Y,Y,"751,000",Realestate.com.au
+104,"Werrington, NSW 2747",Apartment,578,3,3,,Y,,,Single,Y,,,Y,Y,,Realestate.com.au
+105,"St Marys,NSW 2760",Townhouse,,4,3,,Y,,,,,Y,,Y,Y,"890,000",Realestate.com.au
+106,"Cambridge Gardens, NSW 2747",House,584,2,1,,,,,,Y,Y,,,Y,"629,000",Realestate.com.au
+107,"Regentville, NSW 2745",House,693,3,2,1,Y,Y,,Double,Y,,,Y,,"999,000",Realestate.com.au
+108,"Claremont Meadows, NSW 2747",House,450,5,3,1,Y,Y,,,Y,,,Y,Y,"678,000",Realestate.com.au
+109,"Kingswood,NSW 2747",House,619,3,3,2,Y,Y,Y,Double,Y,Y,,Y,Y,"861,000",Realestate.com.au
+110,"Cranebrook,NSW 2749",House,419,4,1,2,,Y,Y,Triple,Y,Y,,,Y,"725,000",Realestate.com.au
+111,"Penrith,NSW 2750",Apartment,689,5,2,1,,Y,,Single,Y,,,Y,Y,"1,225,000",Realestate.com.au
+112,"Glenmore Park,NSW 2745",Townhouse,,5,1,2,Y,Y,,Triple,Y,Y,Y,Y,Y,"899,000",Realestate.com.au
+113,"Cranebrook,NSW 2749",Townhouse,428,3,2,1,,,Y,Single,,Y,,Y,Y,"1,115,000",Realestate.com.au
+114,"Jamisontown,NSW 2750",House,678,5,3,1,Y,Y,,Double,Y,,Y,,,"954,000",Realestate.com.au
+115,"Cambridge Gardens,NSW 2747",Apartment,512,3,1,2,,Y,Y,Triple,Y,Y,Y,Y,Y,"1,289,000",Realestate.com.au
+116,"Emu Plains,NSW 2750",House,153,2,3,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,"571,000",Realestate.com.au
+117,"Cranebrook,NSW 2749",House,32,4,3,2,Y,Y,,Double,Y,Y,Y,Y,Y,"434,000",Realestate.com.au
+118,"Glenmore Park,NSW 2745",Apartmet,722,2,3,1,Y,Y,Y,Double,Y,Y,Y,Y,Y,"1,709,000",Realestate.com.au
+119,"Kingswood,NSW 2747",House,345,3,3,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,"1,005,000",Realestate.com.au
+120,"Emu Plains,NSW 2750",Towhouse,832,4,1,1,Y,Y,Y,Double,Y,Y,,Y,Y,"1,969,000",Realestate.com.au
+121,"Claremont Meadows, NSW 2747",Apartmet,36,2,1,,Y,Y,Y,Double,Y,Y,Y,Y,Y,"257,000",Realestate.com.au
+122,"Cambridge Gardens,NSW 2747",Apartmet,288,3,3,1,,,Y,,Y,Y,,Y,Y,,Realestate.com.au
+123,"Emu Plains,NSW 2750",Towhouse,72,4,1,2,Y,Y,,Double,Y,Y,Y,Y,Y,"454,000",Realestate.com.au
+124,"Werrington, NSW 2747",Apartmet,445,4,3,2,,,,Single,Y,Y,Y,Y,Y,"1,245,000",Realestate.com.au
+125,"South Penrith,NSW 2750",Apartmet,957,4,3,1,,,Y,Double,Y,Y,Y,Y,Y,"2,264,000",Realestate.com.au
+126,"Caddens,NSW 2747",House,466,5,1,,,Y,,,Y,,Y,Y,,"1,242,000",Realestate.com.au
+127,"Penrith,NSW 2750",Towhouse,172,4,2,1,,,Y,Triple,Y,Y,Y,Y,Y,"664,000",Realestate.com.au
+128,"Werrington, NSW 2747",House,211,5,3,,,Y,,Double,Y,Y,Y,Y,,"792,000",Realestate.com.au
+129,"Werrington, NSW 2747",House,938,4,2,1,,,Y,Triple,Y,Y,Y,Y,Y,"2,196,000",Realestate.com.au
+130,"Jamisontown,NSW 2750",Apartmet,129,4,2,1,,Y,Y,Triple,Y,Y,Y,Y,Y,"583,000",Realestate.com.au
+131,"Kingswood,NSW 2747",Towhouse,53,3,3,,,Y,Y,,Y,Y,Y,Y,Y,"391,000",Realestate.com.au
+132,"South Penrith,NSW 2750",Apartmet,282,2,2,2,Y,,,Triple,Y,Y,,Y,Y,"799,000",Realestate.com.au
+133,"Leonay,NSW 2750",Towhouse,868,2,1,,,Y,,Single,Y,Y,,,Y,"1,896,000",Realestate.com.au
+134,"Cranebrook,NSW 2749",House,239,2,1,,,,,,Y,Y,,Y,Y,"633,000",Realestate.com.au
+135,"Regentville, NSW 2745",House,97,3,1,,,,,,,Y,,Y,Y,"399,000",Realestate.com.au
+136,"Regentville, NSW 2745",House,92,1,1,2,,,,,Y,Y,,Y,Y,"329,000",Realestate.com.au
+137,"St Marys,NSW 2760",Towhouse,821,1,1,2,,,Y,Triple,Y,,,Y,Y,"1,802,000",Realestate.com.au
+138,"Caddens,NSW 2747",Towhouse,143,4,3,1,,,,Triple,Y,Y,,Y,Y,"621,000",Realestate.com.au
+139,"Emu Plains,NSW 2750",Towhouse,419,2,2,2,Y,,Y,Single,Y,Y,,Y,,"1,088,000",Realestate.com.au
+140,"Glenmore Park,NSW 2745",Apartmet,941,4,1,,,Y,Y,Triple,,Y,,Y,Y,"2,157,000",Realestate.com.au
+141,"Jamisontown,NSW 2750",Apartmet,892,4,3,,,,,,,Y,,Y,Y,"2,099,000",Realestate.com.au
+142,"Werrington, NSW 2747",House,381,1,1,1,,Y,,,Y,Y,Y,Y,Y,"892,000",Realestate.com.au
+143,"Glenmore Park,NSW 2745",House,81,2,3,1,,Y,Y,Single,Y,Y,Y,Y,Y,"417,000",Realestate.com.au
+144,"St Marys,NSW 2760",House,142,3,3,2,Y,,,Double,Y,,Y,,Y,"599,000",Realestate.com.au
+145,"St Marys,NSW 2760",Towhouse,429,4,1,1,,,Y,Double,Y,Y,,Y,Y,"1,148,000",Realestate.com.au
+146,"Penrith,NSW 2750",Towhouse,92,3,1,1,,Y,Y,Double,Y,Y,Y,Y,Y,"429,000",Realestate.com.au
+147,"Glenmore Park,NSW 2745",House,18,1,1,,Y,Y,Y,,Y,Y,,Y,Y,"171,000",Realestate.com.au
+148,"Leonay,NSW 2750",House,622,5,3,1,Y,,Y,Triple,Y,,,Y,Y,"1,654,000",Realestate.com.au
+149,"Emu Plains,NSW 2750",Apartmet,671,4,3,2,Y,,,Triple,Y,Y,Y,Y,Y,"1,707,000",Realestate.com.au
+150,"Glenmore Park,NSW 2745",Apartmet,595,3,2,1,,Y,,Double,Y,Y,,Y,,"1,450,000",Realestate.com.au
+151,"Regentville, NSW 2745",House,320,5,1,2,,,Y,Double,,Y,,Y,Y,"1,000,000",Domain
+152,"Leonay, NSW 2750",Townhouse,,4,1,,Y,Y,Y,,Y,Y,Y,,Y,"255,000",Domain
+153,"Regentville, NSW 2745",House,556,1,2,3,Y,Y,,Single,Y,Y,,Y,Y,"1,317,000",Domain
+154,"Regentville, NSW 2745",Apartment,541,3,2,,Y,Y,Y,,Y,Y,Y,Y,Y,"1,317,000",Domain
+155,"Regentville, NSW 2745",Townhouse,,5,1,3,Y,Y,Y,Single,,Y,Y,Y,,"390,000",Domain
+156,"Leonay, NSW 2750",Townhouse,,4,1,1,,,Y,Single,Y,Y,,Y,Y,"290,000",Domain
+157,"Penrith, NSW 2750",Townhouse,,5,1,3,,Y,,Triple,Y,Y,Y,Y,Y,"365,000",Domain
+158,"Leonay, NSW 2750",Townhouse,,1,1,3,Y,,,Single,Y,Y,,Y,Y,"175,000",Domain
+159,"Werrington, NSW 2747",House,721,4,1,1,Y,Y,,Single,Y,Y,,Y,Y,"1,727,000",Domain
+160,"Werrington, NSW 2747",House,978,5,2,1,,Y,,Double,Y,Y,,Y,Y,"2,311,000",Domain
+161,"Werrington, NSW 2747",Apartment,936,4,1,3,Y,Y,,Double,Y,Y,Y,Y,Y,"2,197,000",Domain
+162,"Penrith, NSW 2750",Townhouse,,1,2,3,Y,Y,Y,Double,Y,Y,Y,Y,Y,,Domain
+163,"Regentville, NSW 2745",Townhouse,,3,2,1,Y,,,Double,Y,Y,Y,Y,Y,"265,000",Domain
+164,"Werrington, NSW 2747",Apartment,61,4,1,,Y,,Y,,Y,Y,Y,Y,,"377,000",Domain
+165,"Regentville, NSW 2745",House,358,3,2,1,Y,,Y,Single,Y,Y,Y,Y,Y,,Domain
+166,"Regentville, NSW 2745",Apartment,84,5,1,1,,,,Double,Y,Y,Y,Y,Y,"493,000",Domain
+167,"Leonay, NSW 2750",Apartment,73,4,1,3,Y,Y,Y,Double,Y,Y,Y,Y,Y,"486,000",Domain
+168,"Penrith, NSW 2750",House,299,5,2,3,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,018,000",Domain
+169,"Werrington, NSW 2747",Townhouse,,5,3,,,Y,,,Y,Y,Y,Y,,,Domain
+170,"Regentville, NSW 2745",Apartment,347,4,2,1,Y,,,Single,Y,,Y,Y,Y,"1,009,000",Domain
+171,"Regentville, NSW 2745",House,63,1,2,2,,,Y,Double,Y,Y,Y,Y,Y,"316,000",Domain
+172,"Regentville, NSW 2745",House,498,4,1,2,,,,Double,Y,Y,Y,Y,Y,"1,291,000",Domain
+173,"Werrington, NSW 2747",House,893,1,1,,,Y,Y,,Y,Y,Y,Y,Y,"1,881,000",Domain
+174,"Regentville, NSW 2745",House,982,5,1,,Y,Y,Y,,Y,Y,Y,Y,Y,"2,269,000",Domain
+175,"Leonay, NSW 2750",Townhouse,,4,2,1,,Y,Y,Single,Y,Y,Y,,Y,"320,000",Domain
+176,"Werrington, NSW 2747",Townhouse,,5,1,2,,Y,,Double,Y,Y,Y,Y,Y,"345,000",Domain
+177,"Penrith, NSW 2750",Apartment,300,3,2,1,,Y,Y,Triple,Y,Y,,Y,Y,"870,000",Domain
+178,"Penrith, NSW 2750",Townhouse,,4,3,3,,,Y,Triple,Y,Y,,Y,Y,"390,000",Domain
+179,"Leonay, NSW 2750",House,825,5,2,,Y,,Y,,,Y,,Y,Y,"1,985,000",Domain
+180,"Werrington, NSW 2747",Townhouse,,2,2,,Y,Y,Y,,Y,Y,,Y,,"185,000",Domain
+181,"Werrington, NSW 2747",House,850,1,3,2,Y,,Y,Double,Y,Y,,Y,Y,"1,930,000",Domain
+182,"Werrington, NSW 2747",Apartment,753,1,1,,Y,Y,,,Y,Y,,Y,Y,"1,596,000",Domain
+183,"Penrith, NSW 2750",Townhouse,,2,1,1,,Y,Y,Double,,Y,Y,Y,Y,"190,000",Domain
+184,"Regentville, NSW 2745",Townhouse,,5,3,,,Y,,,Y,Y,Y,Y,Y,"340,000",Domain
+185,"Regentville, NSW 2745",Apartment,192,5,3,3,Y,Y,Y,Triple,Y,Y,,Y,Y,"834,000",Domain
+186,"Regentville, NSW 2745",Apartment,916,2,2,1,Y,Y,Y,Double,Y,Y,Y,Y,,"2,062,000",Domain
+187,"Leonay, NSW 2750",House,203,1,1,1,Y,,,Triple,Y,,Y,,Y,"541,000",Domain
+188,"Werrington, NSW 2747",Apartment,547,4,3,2,,,,Triple,Y,,Y,Y,Y,"1,449,000",Domain
+189,"Leonay, NSW 2750",Townhouse,,4,3,2,,Y,,Double,Y,,Y,Y,Y,"355,000",Domain
+190,"Penrith, NSW 2750",House,543,3,1,2,Y,Y,,Double,Y,,Y,Y,,"1,341,000",Domain
+191,"Leonay, NSW 2750",House,693,2,1,1,,Y,,Single,Y,,Y,Y,Y,"1,561,000",Domain
+192,"Penrith, NSW 2750",Townhouse,,1,2,,,Y,,,Y,,,Y,Y,"110,000",Domain
+193,"Penrith, NSW 2750",House,425,5,2,2,Y,Y,Y,Double,,,Y,Y,Y,"1,250,000",Domain
+194,"Leonay, NSW 2750",Apartment,832,2,2,,Y,Y,,,Y,,Y,Y,Y,,Domain
+195,"Penrith, NSW 2750",House,99,3,3,1,Y,Y,,Triple,Y,Y,Y,Y,,"493,000",Domain
+196,"Leonay, NSW 2750",Townhouse,,3,2,,,,,,Y,Y,,Y,Y,"210,000",Domain
+197,"Penrith, NSW 2750",Townhouse,,3,2,,,Y,,,Y,Y,,Y,Y,"210,000",Domain
+198,"Regentville, NSW 2745",Townhouse,,5,2,2,,,Y,Triple,Y,Y,,Y,Y,"390,000",Domain
+199,"Regentville, NSW 2745",Apartment,629,2,2,1,Y,Y,,Single,Y,Y,,Y,Y,"1,473,000",Domain
+200,"Leonay, NSW 2750",Townhouse,,1,3,1,,,Y,Double,Y,Y,,Y,,"200,000",Domain
+201,"Penrith, NSW 2750",Townhouse,,5,2,3,Y,Y,,Triple,Y,,,Y,Y,"405,000",Domain
+202,"Regentville, NSW 2745",Apartment,221,2,2,,Y,,,,Y,,,Y,Y,"612,000",Domain
+203,"Penrith, NSW 2750",Apartment,502,5,1,2,Y,,,Double,Y,,,Y,,"1,359,000",Domain
+204,"Penrith, NSW 2750",House,957,4,3,3,,,Y,Double,Y,,,Y,Y,"2,304,000",Domain
+205,"Leonay, NSW 2750",House,335,5,2,1,,Y,,Double,Y,,,,Y,"1,025,000",Domain
+206,"Werrington, NSW 2747",House,853,1,3,1,,,,Single,Y,,,Y,Y,"1,891,000",Domain
+207,"Regentville, NSW 2745",Townhouse,,4,2,2,Y,Y,,Double,Y,,,Y,,"335,000",Domain
+208,"Penrith, NSW 2750",Apartment,150,4,2,3,Y,,Y,Triple,Y,Y,,Y,Y,"670,000",Domain
+209,"Werrington, NSW 2747",Apartment,511,3,3,3,Y,,,Triple,Y,Y,,Y,Y,"1,357,000",Domain
+210,"Werrington, NSW 2747",Apartment,837,2,2,,Y,,,,,Y,,Y,,"1,844,000",Domain
+211,"Werrington, NSW 2747",House,385,5,3,2,,,,Single,,Y,,Y,Y,"1,175,000",Domain
+212,"Regentville, NSW 2745",House,629,5,1,2,Y,,,Double,,Y,,Y,Y,"1,613,000",Domain
+213,"Werrington, NSW 2747",Townhouse,,2,3,2,,Y,,Single,,Y,,Y,Y,"255,000",Domain
+214,"Werrington, NSW 2747",Townhouse,,5,3,3,,,,Single,Y,Y,,Y,Y,"425,000",Domain
+215,"Werrington, NSW 2747",Apartment,932,4,1,3,Y,,,Single,Y,Y,Y,,,"2,189,000",Domain
+216,"Regentville, NSW 2745",Apartment,739,5,3,1,Y,,Y,Double,Y,Y,Y,Y,Y,"1,888,000",Domain
+217,"Leonay, NSW 2750",House,647,5,2,2,,,,Triple,,Y,,Y,Y,"1,669,000",Domain
+218,"Werrington, NSW 2747",Townhouse,,5,1,,,,Y,,,,Y,Y,,"295,000",Domain
+219,"Penrith, NSW 2750",House,213,1,3,,Y,,Y,,,Y,Y,Y,Y,"591,000",Domain
+220,"Werrington, NSW 2747",Apartment,757,2,2,3,Y,Y,Y,Double,Y,Y,,Y,Y,,Domain
+221,"Leonay, NSW 2750",House,154,1,1,,Y,,,,Y,Y,,,Y,"398,000",Domain
+222,"Penrith, NSW 2750",Apartment,281,5,3,2,Y,Y,Y,Triple,Y,Y,,Y,Y,"992,000",Domain
+223,"Penrith, NSW 2750",Townhouse,,5,3,,Y,Y,Y,,Y,Y,Y,Y,Y,"365,000",Domain
+224,"Regentville, NSW 2745",House,92,1,1,2,,,Y,Single,Y,Y,,Y,Y,"344,000",Domain
+225,"Werrington, NSW 2747",Townhouse,,4,3,3,Y,Y,,Triple,Y,Y,Y,Y,Y,"385,000",Domain
+226,"Werrington, NSW 2747",House,401,2,2,2,,Y,,Single,Y,Y,Y,,Y,"1,027,000",Domain
+227,"Werrington, NSW 2747",Townhouse,,3,1,3,Y,Y,Y,Double,,Y,Y,Y,,"290,000",Domain
+228,"Werrington, NSW 2747",Townhouse,,2,1,3,,Y,Y,Single,Y,Y,,Y,,"230,000",Domain
+229,"Regentville, NSW 2745",Apartment,571,1,2,2,,,Y,Double,Y,Y,Y,Y,,"1,332,000",Domain
+230,"Penrith, NSW 2750",Apartment,463,4,1,3,,Y,Y,Triple,Y,Y,,Y,,"1,256,000",Domain
+231,"Regentville, NSW 2745",Apartment,88,1,1,2,,Y,,Double,Y,Y,Y,Y,,"321,000",Domain
+232,"Regentville, NSW 2745",Townhouse,,4,3,3,Y,Y,Y,Single,Y,Y,,Y,,"400,000",Domain
+233,"Leonay, NSW 2750",Apartment,262,4,3,1,,Y,Y,Single,Y,,Y,Y,Y,"874,000",Domain
+234,"Leonay, NSW 2750",House,402,3,3,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,114,000",Domain
+235,"Regentville, NSW 2745",House,185,2,2,3,Y,Y,Y,Triple,Y,Y,,Y,Y,"640,000",Domain
+236,"Werrington, NSW 2747",Apartment,540,1,2,,Y,Y,,,Y,Y,Y,Y,Y,"1,200,000",Domain
+237,"Leonay, NSW 2750",House,549,4,2,1,Y,,Y,Double,Y,Y,,Y,Y,"1,428,000",Domain
+238,"Leonay, NSW 2750",House,69,3,3,2,,Y,Y,Triple,Y,,,Y,,"458,000",Domain
+239,"Penrith, NSW 2750",Apartment,276,2,1,1,,Y,,Double,Y,Y,,Y,Y,"727,000",Domain
+240,"Leonay, NSW 2750",House,69,1,3,2,,Y,,Double,Y,Y,,Y,Y,"343,000",Domain
+241,"Penrith, NSW 2750",Apartment,211,2,3,2,,,Y,Triple,,Y,Y,Y,Y,"692,000",Domain
+242,"Penrith, NSW 2750",House,591,2,2,,Y,Y,,,,Y,Y,Y,,"1,352,000",Domain
+243,"Leonay, NSW 2750",Townhouse,,1,2,2,,Y,Y,Triple,,Y,Y,Y,Y,"190,000",Domain
+244,"Leonay, NSW 2750",Apartment,210,1,2,3,,,Y,Triple,Y,Y,Y,Y,Y,"630,000",Domain
+245,"Regentville, NSW 2745",Townhouse,,1,2,3,,Y,Y,Triple,Y,Y,Y,,Y,,Domain
+246,"Werrington, NSW 2747",House,303,5,2,,Y,Y,,,,Y,Y,Y,Y,"926,000",Domain
+247,"Regentville, NSW 2745",Apartment,630,5,1,3,Y,,,Double,Y,Y,Y,Y,Y,"1,635,000",Domain
+248,"Regentville, NSW 2745",Apartment,344,2,3,,Y,,,,,,Y,Y,Y,"888,000",Domain
+249,"Regentville, NSW 2745",House,645,1,1,1,,,,Triple,,Y,,Y,Y,,Domain
+250,"Penrith, NSW 2750",Apartment,955,2,1,,,,Y,,Y,Y,,Y,Y,"2,055,000",Domain
+251,"Werrington, NSW 2747",Apartment,924,1,1,3,,Y,,Triple,Y,Y,,Y,Y,,Domain
+252,"Penrith, NSW 2750",Townhouse,,5,2,1,,,Y,Double,Y,Y,,,Y,"370,000",Domain
+253,"Regentville, NSW 2745",House,648,2,1,3,,,Y,Single,Y,Y,,Y,Y,,Domain
+254,"Werrington, NSW 2747",House,678,4,3,1,,Y,Y,Single,Y,,,Y,Y,,Domain
+255,"Regentville, NSW 2745",Apartment,730,1,1,1,,,,Single,Y,Y,,Y,Y,,Domain
+256,"Penrith, NSW 2750",Apartment,106,2,2,1,Y,,Y,Triple,Y,Y,,Y,,,Domain
+257,"Werrington, NSW 2747",Townhouse,,3,3,2,,,Y,Double,,Y,,,Y,"320,000",Domain
+258,"Penrith, NSW 2750",Apartment,263,5,3,1,,,Y,Double,Y,Y,,Y,Y,"926,000",Domain
+259,"Regentville, NSW 2745",House,115,1,2,2,Y,Y,,Double,Y,Y,,Y,Y,"415,000",Domain
+260,"Leonay, NSW 2750",Townhouse,,3,2,2,Y,Y,,Double,Y,Y,,Y,,"285,000",Domain
+261,"Penrith, NSW 2750",House,534,5,3,,,Y,Y,,Y,Y,,Y,Y,"1,423,000",Domain
+262,"Penrith, NSW 2750",Apartment,435,3,1,2,Y,,Y,Single,,Y,,Y,Y,"1,140,000",Domain
+263,"Penrith, NSW 2750",House,941,3,1,3,Y,Y,Y,Single,Y,Y,,Y,Y,"2,172,000",Domain
+264,"Regentville, NSW 2745",Apartment,65,1,3,,Y,Y,Y,,Y,Y,,Y,Y,"295,000",Domain
+265,"Werrington, NSW 2747",Apartment,784,3,3,3,,Y,Y,Single,Y,Y,,Y,Y,"1,908,000",Domain
+266,"Werrington, NSW 2747",Apartment,694,3,1,3,Y,Y,Y,Triple,Y,Y,,Y,Y,"1,678,000",Domain
+267,"Regentville, NSW 2745",House,499,4,1,,,Y,Y,,Y,Y,,Y,Y,"1,243,000",Domain
+268,"Penrith, NSW 2750",House,809,2,2,,,,,,Y,Y,,Y,,"1,778,000",Domain
+269,"Regentville, NSW 2745",Apartment,328,1,1,3,,Y,Y,Single,Y,Y,,Y,Y,"836,000",Domain
+270,"Regentville, NSW 2745",Apartment,985,4,3,2,,Y,Y,Triple,Y,Y,,Y,Y,"2,340,000",Domain
+271,"Regentville, NSW 2745",Townhouse,,4,2,,,,,,Y,Y,,Y,Y,"260,000",Domain
+272,"Werrington, NSW 2747",House,703,4,1,2,Y,,Y,Triple,Y,,Y,Y,Y,"1,726,000",Domain
+273,"Regentville, NSW 2745",Townhouse,,3,3,1,,,Y,Double,Y,Y,Y,Y,Y,"300,000",Domain
+274,"Regentville, NSW 2745",Apartment,895,3,1,,,,Y,,,Y,Y,Y,Y,"1,985,000",Domain
+275,"Regentville, NSW 2745",House,671,3,3,1,Y,Y,Y,Double,Y,Y,Y,Y,Y,"1,652,000",Domain
+276,"Penrith, NSW 2750",Townhouse,,1,3,2,,,,Single,Y,Y,Y,Y,Y,"205,000",Domain
+277,"Penrith, NSW 2750",House,869,1,2,2,,,Y,Single,Y,Y,Y,Y,,,Domain
+278,"Leonay, NSW 2750",Apartment,686,1,3,2,,,Y,Double,Y,Y,Y,Y,Y,"1,592,000",Domain
+279,"Penrith, NSW 2750",Townhouse,,2,1,2,Y,,,Single,Y,Y,Y,Y,Y,"205,000",Domain
+280,"Leonay, NSW 2750",House,954,4,3,,,Y,,,Y,Y,Y,Y,,"2,198,000",Domain
+281,"Penrith, NSW 2750",Apartment,223,1,3,1,,,Y,Double,Y,Y,Y,Y,Y,"646,000",Domain
+282,"Regentville, NSW 2745",House,181,4,2,3,,Y,Y,Double,Y,,,Y,Y,"722,000",Domain
+283,"Leonay, NSW 2750",House,633,1,2,,,Y,Y,,Y,,Y,,Y,"1,391,000",Domain
+284,"Leonay, NSW 2750",Apartment,490,5,1,,Y,,,,Y,,Y,Y,Y,"1,270,000",Domain
+285,"Leonay, NSW 2750",House,750,1,2,,,,,,Y,,Y,Y,Y,"1,610,000",Domain
+286,"Leonay, NSW 2750",House,994,2,3,1,Y,,,Single,Y,,Y,Y,Y,"2,233,000",Domain
+287,"Regentville, NSW 2745",House,620,1,3,,Y,,,,Y,,,Y,Y,"1,390,000",Domain
+288,"Leonay, NSW 2750",House,217,4,3,3,Y,Y,,Single,,,Y,Y,Y,"819,000",Domain
+289,"Werrington, NSW 2747",House,152,4,2,,,Y,,,,,Y,Y,Y,"564,000",Domain
+290,"Leonay, NSW 2750",Townhouse,,4,2,1,,,,Double,,Y,Y,Y,Y,"305,000",Domain
+291,"Penrith, NSW 2750",Townhouse,,4,1,,,,Y,,Y,Y,Y,Y,Y,"245,000",Domain
+292,"Leonay, NSW 2750",House,251,2,3,2,Y,Y,,Single,Y,Y,Y,Y,,"767,000",Domain
+293,"Penrith, NSW 2750",Townhouse,,3,1,1,Y,Y,Y,Double,Y,Y,Y,Y,Y,"250,000",Domain
+294,"Penrith, NSW 2750",Apartment,468,3,1,2,Y,,,Single,Y,Y,Y,Y,Y,"1,191,000",Domain
+295,"Regentville, NSW 2745",House,457,1,2,3,,Y,,Single,Y,Y,Y,Y,Y,"1,109,000",Domain
+296,"Werrington, NSW 2747",House,683,4,2,3,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,736,000",Domain
+297,"Penrith, NSW 2750",Townhouse,,2,3,,,,Y,,Y,,Y,Y,,"205,000",Domain
+298,"Regentville, NSW 2745",House,245,5,1,,Y,,Y,,Y,Y,Y,Y,Y,"795,000",Domain
+299,"Regentville, NSW 2745",Townhouse,,3,2,2,,Y,Y,Double,Y,,,Y,Y,"290,000",Domain
+300,"Leonay, NSW 2750",Apartment,80,4,1,,Y,,Y,,Y,Y,Y,Y,Y,"415,000",Domain
+301,"Penrith, NSW 2750",House,715,3,2,1,Y,,,Double,Y,Y,,Y,Y,"1,695,000",Realtor.com
+302,"Leonay, NSW 2750",Townhouse,,2,1,1,,Y,,Triple,Y,Y,Y,Y,Y,"175,000",Realtor.com
+303,"Penrith, NSW 2750",Apartment,250,1,1,,Y,,,,Y,Y,Y,Y,,"590,000",Realtor.com
+304,"Penrith, NSW 2750",Apartment,118,5,1,,Y,,,,Y,,Y,Y,Y,"526,000",Realtor.com
+305,"Werrington, NSW 2747",Townhouse,,2,1,2,,Y,Y,Single,Y,,Y,Y,Y,"210,000",Realtor.com
+306,"Penrith, NSW 2750",Townhouse,,3,1,3,Y,Y,,Double,,Y,,Y,Y,"275,000",Realtor.com
+307,"Leonay, NSW 2750",Townhouse,,1,3,3,,,Y,Triple,Y,,,Y,Y,"240,000",Realtor.com
+308,"Penrith, NSW 2750",House,333,5,1,,Y,,Y,,Y,,,Y,Y,"971,000",Realtor.com
+309,"Werrington, NSW 2747",Townhouse,,5,3,3,,Y,Y,Single,Y,Y,,,Y,"440,000",Realtor.com
+310,"Werrington, NSW 2747",House,573,1,3,2,Y,,Y,Double,Y,Y,,Y,Y,"1,376,000",Realtor.com
+311,"Penrith, NSW 2750",Apartment,151,3,1,1,Y,,Y,Single,Y,Y,,Y,Y,"552,000",Realtor.com
+312,"Regentville, NSW 2745",House,998,3,2,3,Y,Y,Y,Single,Y,,,Y,Y,"2,316,000",Realtor.com
+313,"Leonay, NSW 2750",Townhouse,,4,1,,Y,,,,Y,,Y,Y,Y,"240,000",Realtor.com
+314,"Regentville, NSW 2745",Townhouse,,5,1,2,Y,Y,,Double,,Y,Y,Y,Y,"355,000",Realtor.com
+315,"Regentville, NSW 2745",Townhouse,,2,2,3,,,Y,Triple,Y,Y,Y,Y,Y,"260,000",Realtor.com
+316,"Werrington, NSW 2747",House,352,3,3,1,Y,Y,,Triple,Y,,,,Y,"999,000",Realtor.com
+317,"Leonay, NSW 2750",House,50,5,1,3,Y,Y,Y,Single,Y,Y,Y,Y,Y,"490,000",Realtor.com
+318,"Regentville, NSW 2745",Apartment,153,1,2,1,,Y,,Triple,Y,Y,Y,Y,Y,"461,000",Realtor.com
+319,"Werrington, NSW 2747",Townhouse,,4,1,,Y,,,,Y,,,Y,Y,,Realtor.com
+320,"Penrith, NSW 2750",Apartment,706,2,2,3,Y,,,Single,Y,Y,Y,Y,Y,,Realtor.com
+321,"Penrith, NSW 2750",Townhouse,,2,3,2,Y,Y,,Triple,Y,Y,Y,Y,Y,,Realtor.com
+322,"Leonay, NSW 2750",Townhouse,,1,1,,,,,,Y,Y,Y,Y,Y,,Realtor.com
+323,"Werrington, NSW 2747",House,80,1,3,2,Y,,Y,Double,Y,,Y,Y,Y,,Realtor.com
+324,"Werrington, NSW 2747",Apartment,227,4,2,3,,,Y,Single,Y,,Y,Y,Y,"814,000",Realtor.com
+325,"Penrith, NSW 2750",Apartment,680,2,2,3,Y,,Y,Triple,,,,Y,Y,"1,630,000",Realtor.com
+326,"Werrington, NSW 2747",House,910,2,2,3,Y,Y,Y,Single,Y,Y,,,Y,"2,090,000",Realtor.com
+327,"Penrith, NSW 2750",House,206,4,3,,,,Y,,Y,Y,,Y,Y,"717,000",Realtor.com
+328,"Regentville, NSW 2745",Apartment,868,5,3,,,Y,Y,,Y,Y,,,Y,"2,091,000",Realtor.com
+329,"Werrington, NSW 2747",Townhouse,,5,1,3,Y,Y,,Triple,Y,Y,,Y,,"375,000",Realtor.com
+330,"Leonay, NSW 2750",Townhouse,,5,1,3,Y,Y,Y,Double,Y,Y,,Y,Y,"390,000",Realtor.com
+331,"Regentville, NSW 2745",Townhouse,,4,1,1,,,,Single,Y,Y,,Y,Y,"275,000",Realtor.com
+332,"Penrith, NSW 2750",Apartment,276,4,1,3,Y,,Y,Triple,Y,Y,,Y,Y,"892,000",Realtor.com
+333,"Leonay, NSW 2750",House,215,3,2,3,Y,Y,Y,Single,Y,Y,,,,"750,000",Realtor.com
+334,"Penrith, NSW 2750",Townhouse,,2,3,3,Y,,Y,Double,Y,Y,,Y,Y,"300,000",Realtor.com
+335,"Penrith, NSW 2750",House,284,3,1,,Y,Y,Y,,Y,Y,,,Y,"773,000",Realtor.com
+336,"Werrington, NSW 2747",Apartment,574,5,2,3,Y,Y,Y,Triple,Y,Y,,Y,Y,"1,568,000",Realtor.com
+337,"Werrington, NSW 2747",Townhouse,,1,2,3,,,Y,Double,Y,Y,,Y,Y,"210,000",Realtor.com
+338,"Penrith, NSW 2750",Townhouse,,1,2,3,,,Y,Double,Y,Y,,Y,Y,"210,000",Realtor.com
+339,"Werrington, NSW 2747",House,440,5,1,,Y,,Y,,Y,Y,,Y,Y,"1,185,000",Realtor.com
+340,"Leonay, NSW 2750",Townhouse,,4,1,2,Y,Y,Y,Single,Y,Y,,Y,Y,"320,000",Realtor.com
+341,"Werrington, NSW 2747",House,108,4,3,,,,,,Y,Y,,Y,Y,"506,000",Realtor.com
+342,"Penrith, NSW 2750",Townhouse,,2,2,3,Y,Y,Y,Double,Y,Y,,Y,,"270,000",Realtor.com
+343,"Leonay, NSW 2750",Apartment,578,3,2,3,Y,Y,Y,Triple,Y,Y,,Y,Y,"1,476,000",Realtor.com
+344,"Leonay, NSW 2750",Townhouse,,5,3,2,Y,,,Double,Y,Y,,Y,Y,"415,000",Realtor.com
+345,"Regentville, NSW 2745",House,208,1,2,1,Y,Y,,Single,Y,Y,,Y,Y,,Realtor.com
+346,"Leonay, NSW 2750",Apartment,995,3,2,2,,Y,Y,Double,Y,Y,Y,Y,Y,,Realtor.com
+347,"Werrington, NSW 2747",Apartment,259,2,2,,,Y,Y,,Y,Y,Y,Y,Y,"693,000",Realtor.com
+348,"Regentville, NSW 2745",House,669,1,1,3,Y,Y,,Double,Y,Y,Y,Y,Y,"1,513,000",Realtor.com
+349,"Penrith, NSW 2750",Townhouse,,3,2,1,Y,,,Triple,Y,Y,Y,Y,Y,"265,000",Realtor.com
+350,"Werrington, NSW 2747",Apartment,203,4,3,,Y,Y,Y,,Y,Y,Y,Y,Y,"721,000",Realtor.com
+351,"Werrington, NSW 2747",Apartment,296,5,2,3,Y,,,Triple,Y,Y,Y,Y,Y,"997,000",Realtor.com
+352,"Penrith, NSW 2750",Townhouse,,2,2,,,,,,Y,Y,Y,,Y,"160,000",Realtor.com
+353,"Regentville, NSW 2745",Apartment,220,5,2,3,,Y,Y,Double,Y,,Y,Y,Y,"850,000",Realtor.com
+354,"Leonay, NSW 2750",House,500,4,1,,,,,,Y,Y,Y,Y,Y,"1,230,000",Realtor.com
+355,"Leonay, NSW 2750",Townhouse,,1,1,2,,,Y,Triple,Y,,,Y,Y,"160,000",Realtor.com
+356,"Regentville, NSW 2745",Townhouse,,2,2,,Y,,Y,,Y,Y,Y,Y,Y,"185,000",Realtor.com
+357,"Werrington, NSW 2747",House,818,2,2,,Y,,Y,,Y,Y,,Y,,"1,821,000",Realtor.com
+358,"Werrington, NSW 2747",House,242,1,2,1,Y,,,Triple,Y,Y,Y,Y,Y,"649,000",Realtor.com
+359,"Regentville, NSW 2745",House,637,2,3,2,,,Y,Double,,Y,Y,Y,Y,"1,544,000",Realtor.com
+360,"Werrington, NSW 2747",House,181,2,3,1,,Y,,Triple,Y,Y,Y,Y,Y,"597,000",Realtor.com
+361,"Penrith, NSW 2750",Apartment,543,1,3,3,,Y,,Triple,Y,Y,Y,,Y,"1,311,000",Realtor.com
+362,"Leonay, NSW 2750",Townhouse,,4,2,,Y,Y,,,Y,,Y,Y,Y,"270,000",Realtor.com
+363,"Leonay, NSW 2750",Townhouse,,4,3,,,,Y,,Y,Y,Y,Y,Y,"305,000",Realtor.com
+364,"Penrith, NSW 2750",House,615,5,1,1,,,,Triple,Y,Y,Y,Y,Y,"1,555,000",Realtor.com
+365,"Regentville, NSW 2745",Apartment,893,3,3,3,Y,Y,,Double,,Y,Y,Y,Y,"2,121,000",Realtor.com
+366,"Leonay, NSW 2750",House,161,3,3,1,,,Y,Triple,Y,Y,Y,Y,Y,"622,000",Realtor.com
+367,"Leonay, NSW 2750",Apartment,359,5,1,3,,Y,Y,Triple,,Y,Y,Y,,"1,098,000",Realtor.com
+368,"Leonay, NSW 2750",Apartment,700,2,2,,,Y,Y,,,Y,Y,Y,Y,"1,575,000",Realtor.com
+369,"Werrington, NSW 2747",House,802,1,3,,,Y,,,Y,Y,Y,Y,Y,"1,744,000",Realtor.com
+370,"Penrith, NSW 2750",Townhouse,,3,2,,,,Y,,Y,Y,Y,Y,Y,"225,000",Realtor.com
+371,"Regentville, NSW 2745",Apartment,730,5,1,,,Y,,,Y,Y,Y,Y,Y,"1,740,000",Realtor.com
+372,"Penrith, NSW 2750",House,929,5,3,3,,,,Double,Y,Y,Y,,Y,"2,283,000",Realtor.com
+373,"Penrith, NSW 2750",Townhouse,,3,2,1,Y,Y,,Triple,Y,Y,Y,,Y,"265,000",Realtor.com
+374,"Leonay, NSW 2750",Apartment,994,3,1,,,,,,Y,Y,,Y,Y,"2,168,000",Realtor.com
+375,"Regentville, NSW 2745",Apartment,708,4,3,2,Y,,,Triple,Y,,Y,Y,Y,"1,781,000",Realtor.com
+376,"Regentville, NSW 2745",Apartment,362,5,3,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,134,000",Realtor.com
+377,"Leonay, NSW 2750",House,61,5,3,,,Y,,,Y,Y,Y,Y,Y,"462,000",Realtor.com
+378,"Leonay, NSW 2750",Apartment,167,3,1,1,,,Y,Triple,Y,Y,Y,Y,Y,"574,000",Realtor.com
+379,"Regentville, NSW 2745",Townhouse,,4,1,,Y,Y,,,Y,Y,Y,Y,Y,"240,000",Realtor.com
+380,"Leonay, NSW 2750",Apartment,809,4,1,3,,,Y,Double,Y,,Y,Y,Y,"1,948,000",Realtor.com
+381,"Leonay, NSW 2750",Apartment,371,2,1,3,,Y,Y,Single,Y,Y,Y,Y,Y,"972,000",Realtor.com
+382,"Penrith, NSW 2750",House,632,3,3,1,Y,Y,Y,Double,Y,Y,,Y,Y,"1,574,000",Realtor.com
+383,"Regentville, NSW 2745",Apartment,488,3,1,2,Y,,,Triple,Y,Y,Y,,Y,"1,231,000",Realtor.com
+384,"Werrington, NSW 2747",Townhouse,,5,2,1,Y,,Y,Single,Y,Y,Y,Y,Y,"380,000",Realtor.com
+385,"Leonay, NSW 2750",Apartment,492,4,3,3,,,,Single,Y,,Y,Y,Y,"1,359,000",Realtor.com
+386,"Regentville, NSW 2745",Townhouse,,3,1,2,Y,Y,,Single,Y,,,,Y,"255,000",Realtor.com
+387,"Leonay, NSW 2750",House,117,1,1,3,Y,,Y,Double,Y,,,Y,Y,"424,000",Realtor.com
+388,"Penrith, NSW 2750",Apartment,215,1,2,1,Y,,Y,Single,Y,,,Y,Y,"610,000",Realtor.com
+389,"Regentville, NSW 2745",Townhouse,,4,1,2,Y,,Y,Single,Y,,,Y,Y,"320,000",Realtor.com
+390,"Werrington, NSW 2747",House,995,4,1,3,Y,Y,,Triple,Y,,,Y,Y,,Realtor.com
+391,"Leonay, NSW 2750",House,415,5,3,3,Y,,,Double,,,,Y,Y,"1,265,000",Realtor.com
+392,"Penrith, NSW 2750",Townhouse,,2,2,3,,Y,,Triple,Y,,,Y,,"245,000",Realtor.com
+393,"Regentville, NSW 2745",Apartment,919,1,3,3,Y,,Y,Single,Y,Y,Y,Y,,"2,088,000",Realtor.com
+394,"Regentville, NSW 2745",Apartment,906,1,1,1,Y,,Y,Double,Y,Y,Y,Y,Y,"1,962,000",Realtor.com
+395,"Regentville, NSW 2745",Townhouse,,4,2,1,,Y,,Triple,Y,Y,Y,Y,Y,"305,000",Realtor.com
+396,"Regentville, NSW 2745",Apartment,711,3,2,,,Y,,,,Y,Y,Y,Y,"1,632,000",Realtor.com
+397,"Leonay, NSW 2750",Townhouse,,3,2,1,Y,,,Single,Y,Y,Y,Y,,"265,000",Realtor.com
+398,"Penrith, NSW 2750",Apartment,70,2,3,2,Y,Y,,Single,Y,Y,Y,Y,Y,"405,000",Realtor.com
+399,"Penrith, NSW 2750",Townhouse,,2,3,,,,Y,,Y,Y,Y,,Y,"205,000",Realtor.com
+400,"Werrington, NSW 2747",Townhouse,,5,2,1,,,,Single,Y,Y,Y,Y,Y,"355,000",Realtor.com
+401,"Werrington, NSW 2747",House,158,3,3,1,Y,Y,Y,Triple,Y,Y,,Y,Y,"626,000",Realtor.com
+402,"Leonay, NSW 2750",Apartment,944,1,1,2,Y,,Y,Triple,,,Y,Y,Y,"2,058,000",Realtor.com
+403,"Leonay, NSW 2750",House,296,5,2,,Y,Y,,,Y,Y,Y,Y,Y,"912,000",Realtor.com
+404,"Werrington, NSW 2747",House,284,2,3,1,,Y,Y,Double,Y,,Y,,Y,"818,000",Realtor.com
+405,"Werrington, NSW 2747",Townhouse,,3,2,2,Y,Y,Y,Single,Y,,Y,Y,Y,"300,000",Realtor.com
+406,"Leonay, NSW 2750",Apartment,68,3,2,3,Y,,Y,Triple,Y,Y,Y,Y,Y,"456,000",Realtor.com
+407,"Werrington, NSW 2747",House,142,5,1,,,,,,Y,Y,,Y,,"564,000",Realtor.com
+408,"Leonay, NSW 2750",Townhouse,,5,2,,Y,Y,Y,,Y,Y,,Y,,"335,000",Realtor.com
+409,"Leonay, NSW 2750",Apartment,220,1,3,,,Y,,,,Y,,Y,,"580,000",Realtor.com
+410,"Werrington, NSW 2747",House,717,1,1,,Y,Y,,,Y,Y,,Y,,"1,524,000",Realtor.com
+411,"Regentville, NSW 2745",House,767,5,3,2,Y,Y,,Single,Y,Y,Y,Y,,"1,949,000",Realtor.com
+412,"Penrith, NSW 2750",House,707,3,2,3,,,,Triple,,,Y,Y,,"1,709,000",Realtor.com
+413,"Leonay, NSW 2750",House,734,2,2,,Y,,Y,,,,Y,Y,,"1,653,000",Realtor.com
+414,"Regentville, NSW 2745",House,900,3,2,1,,,,Triple,Y,,Y,Y,,,Realtor.com
+415,"Werrington, NSW 2747",Townhouse,,3,3,1,,Y,,Triple,Y,,Y,Y,,,Realtor.com
+416,"Penrith, NSW 2750",House,768,1,1,1,Y,Y,,Double,Y,,,,,,Realtor.com
+417,"Leonay, NSW 2750",Townhouse,,3,1,2,,,Y,Single,Y,,Y,Y,Y,,Realtor.com
+418,"Regentville, NSW 2745",Townhouse,,3,1,3,Y,Y,Y,Double,Y,Y,Y,Y,Y,"290,000",Realtor.com
+419,"Leonay, NSW 2750",Apartment,318,3,2,3,,,,Triple,Y,Y,Y,Y,Y,"931,000",Realtor.com
+420,"Penrith, NSW 2750",Apartment,699,4,3,2,Y,Y,,Triple,Y,Y,Y,Y,Y,"1,763,000",Realtor.com
+421,"Werrington, NSW 2747",Apartment,785,1,2,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,"1,750,000",Realtor.com
+422,"Penrith, NSW 2750",House,205,5,2,1,,Y,,Triple,Y,,Y,Y,Y,"765,000",Realtor.com
+423,"Penrith, NSW 2750",Townhouse,,4,2,,Y,,,,Y,Y,Y,Y,Y,"270,000",Realtor.com
+424,"Werrington, NSW 2747",Apartment,942,5,3,2,Y,,Y,Double,Y,Y,Y,Y,Y,"2,314,000",Realtor.com
+425,"Regentville, NSW 2745",Apartment,553,5,3,3,Y,,Y,Single,Y,Y,Y,Y,Y,"1,556,000",Realtor.com
+426,"Penrith, NSW 2750",Apartment,76,4,3,,Y,Y,Y,,Y,Y,Y,Y,Y,"467,000",Realtor.com
+427,"Regentville, NSW 2745",Townhouse,,5,1,,Y,Y,Y,,Y,Y,Y,Y,Y,"305,000",Realtor.com
+428,"Regentville, NSW 2745",Apartment,557,5,3,1,,Y,Y,Triple,Y,Y,,,Y,"1,514,000",Realtor.com
+429,"Werrington, NSW 2747",Townhouse,,3,3,3,,,,Single,Y,Y,Y,Y,Y,"325,000",Realtor.com
+430,"Regentville, NSW 2745",Townhouse,,2,2,,,,Y,,Y,Y,Y,,Y,"175,000",Realtor.com
+431,"Werrington, NSW 2747",Apartment,744,4,1,2,,Y,Y,Double,Y,Y,,Y,Y,"1,798,000",Realtor.com
+432,"Leonay, NSW 2750",Apartment,63,3,3,,Y,Y,,,Y,Y,Y,Y,Y,"376,000",Realtor.com
+433,"Penrith, NSW 2750",House,694,1,3,2,Y,,Y,Single,Y,Y,Y,Y,Y,"1,618,000",Realtor.com
+434,"Regentville, NSW 2745",House,665,4,2,1,Y,,Y,Double,Y,Y,Y,Y,Y,"1,660,000",Realtor.com
+435,"Regentville, NSW 2745",House,108,3,3,3,,Y,Y,Double,Y,Y,Y,Y,Y,"556,000",Realtor.com
+436,"Werrington, NSW 2747",House,854,1,2,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,888,000",Realtor.com
+437,"Penrith, NSW 2750",House,975,1,3,3,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"2,200,000",Realtor.com
+438,"Leonay, NSW 2750",Townhouse,,1,3,2,,Y,Y,Triple,Y,Y,Y,Y,,"220,000",Realtor.com
+439,"Regentville, NSW 2745",Townhouse,,5,2,1,,,Y,Single,Y,Y,,Y,Y,"370,000",Realtor.com
+440,"Werrington, NSW 2747",Apartment,974,3,2,2,Y,,,Triple,Y,Y,Y,Y,Y,"2,233,000",Realtor.com
+441,"Penrith, NSW 2750",Apartment,955,4,3,,Y,Y,,,Y,Y,Y,Y,Y,"2,210,000",Realtor.com
+442,"Penrith, NSW 2750",Townhouse,,3,2,3,,,,Triple,,Y,Y,Y,Y,"295,000",Realtor.com
+443,"Leonay, NSW 2750",House,85,5,2,1,Y,Y,,Triple,Y,Y,Y,Y,Y,"535,000",Realtor.com
+444,"Werrington, NSW 2747",Apartment,80,3,2,3,,,Y,Double,Y,Y,Y,Y,Y,"470,000",Realtor.com
+445,"Regentville, NSW 2745",Apartment,194,1,3,2,,Y,,Double,Y,Y,,Y,Y,"593,000",Realtor.com
+446,"Leonay, NSW 2750",House,737,2,3,3,Y,Y,,Triple,,Y,Y,Y,Y,"1,759,000",Realtor.com
+447,"Leonay, NSW 2750",House,81,1,2,2,Y,,Y,Double,,Y,Y,Y,Y,"362,000",Realtor.com
+448,"Leonay, NSW 2750",Townhouse,,3,2,3,,,Y,Double,Y,Y,Y,Y,Y,"310,000",Realtor.com
+449,"Leonay, NSW 2750",House,278,3,1,,Y,Y,,,Y,Y,Y,Y,Y,"746,000",Realtor.com
+450,"Leonay, NSW 2750",House,721,3,2,2,Y,,,Triple,Y,Y,Y,Y,Y,"1,727,000",Realtor.com
+451,"Penrith, NSW 2750",Apartment,455,5,2,3,Y,,Y,Triple,Y,Y,Y,Y,Y,"1,330,000",Allhomes
+452,"Penrith, NSW 2750",Townhouse,,1,3,2,Y,,Y,Triple,Y,Y,Y,Y,Y,"230,000",Allhomes
+453,"Leonay, NSW 2750",Apartment,811,4,3,2,,,Y,Double,Y,Y,Y,Y,Y,,Allhomes
+454,"Leonay, NSW 2750",House,999,4,1,,,,,,,Y,Y,,Y,"2,228,000",Allhomes
+455,"Regentville, NSW 2745",House,735,3,2,2,Y,,,Single,Y,Y,,Y,Y,"1,755,000",Allhomes
+456,"Werrington, NSW 2747",Townhouse,,2,3,,Y,Y,,,Y,Y,Y,,Y,"200,000",Allhomes
+457,"Leonay, NSW 2750",Apartment,220,5,2,,,Y,,,Y,Y,Y,Y,Y,"750,000",Allhomes
+458,"Penrith, NSW 2750",Apartment,528,5,3,3,,Y,,Double,Y,Y,Y,Y,Y,"1,481,000",Allhomes
+459,"Regentville, NSW 2745",Townhouse,,2,1,3,,Y,,Single,Y,Y,Y,Y,Y,"215,000",Allhomes
+460,"Werrington, NSW 2747",Townhouse,,4,1,2,Y,,Y,Triple,Y,Y,Y,Y,Y,"320,000",Allhomes
+461,"Penrith, NSW 2750",House,555,5,1,,Y,Y,,,Y,Y,Y,Y,Y,"1,400,000",Allhomes
+462,"Penrith, NSW 2750",House,548,1,1,2,,,,Double,Y,Y,Y,Y,Y,"1,241,000",Allhomes
+463,"Regentville, NSW 2745",Townhouse,,4,3,,Y,,,,Y,Y,Y,Y,Y,,Allhomes
+464,"Regentville, NSW 2745",House,293,4,2,1,Y,,,Double,Y,Y,Y,Y,Y,"901,000",Allhomes
+465,"Penrith, NSW 2750",House,296,4,2,2,,,,Triple,,Y,,Y,Y,"917,000",Allhomes
+466,"Werrington, NSW 2747",Apartment,865,1,3,3,,,Y,Triple,Y,Y,,Y,Y,"1,970,000",Allhomes
+467,"Penrith, NSW 2750",Townhouse,,5,1,2,Y,,,Double,Y,Y,Y,Y,Y,"355,000",Allhomes
+468,"Regentville, NSW 2745",Apartment,884,5,3,1,Y,Y,,Single,Y,Y,Y,Y,Y,"2,163,000",Allhomes
+469,"Regentville, NSW 2745",Apartment,211,2,3,3,,Y,,Single,Y,Y,Y,Y,Y,"697,000",Allhomes
+470,"Werrington, NSW 2747",Townhouse,,5,1,3,Y,,Y,Single,,Y,Y,,Y,"390,000",Allhomes
+471,"Regentville, NSW 2745",House,299,4,3,1,Y,Y,,Double,Y,Y,Y,Y,Y,"943,000",Allhomes
+472,"Regentville, NSW 2745",Townhouse,,4,3,1,,Y,Y,Triple,,,Y,,Y,"350,000",Allhomes
+473,"Leonay, NSW 2750",Apartment,229,1,3,2,Y,,Y,Triple,Y,Y,Y,Y,Y,"688,000",Allhomes
+474,"Leonay, NSW 2750",Townhouse,,5,1,,Y,Y,Y,,Y,Y,Y,Y,Y,"305,000",Allhomes
+475,"Penrith, NSW 2750",Townhouse,,4,3,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,"360,000",Allhomes
+476,"Werrington, NSW 2747",Apartment,506,2,1,3,,,,Single,,Y,Y,Y,Y,"1,227,000",Allhomes
+477,"Regentville, NSW 2745",House,434,1,1,2,Y,Y,Y,Double,Y,Y,Y,,Y,"1,038,000",Allhomes
+478,"Penrith, NSW 2750",House,57,1,1,1,,,,Double,Y,Y,Y,Y,Y,"239,000",Allhomes
+479,"Werrington, NSW 2747",Townhouse,,5,3,1,Y,Y,,Triple,,Y,Y,Y,Y,"395,000",Allhomes
+480,"Werrington, NSW 2747",House,619,1,3,,Y,Y,,,Y,Y,Y,Y,Y,"1,388,000",Allhomes
+481,"Penrith, NSW 2750",Townhouse,,2,2,3,Y,Y,,Triple,Y,,Y,Y,Y,"255,000",Allhomes
+482,"Regentville, NSW 2745",Townhouse,,4,3,,Y,,Y,,Y,Y,Y,Y,Y,"315,000",Allhomes
+483,"Leonay, NSW 2750",House,194,3,2,,,Y,Y,,Y,Y,Y,Y,Y,"613,000",Allhomes
+484,"Penrith, NSW 2750",House,512,4,3,3,Y,,,Single,Y,,Y,Y,Y,"1,409,000",Allhomes
+485,"Werrington, NSW 2747",Townhouse,,3,3,,,Y,,,Y,Y,Y,Y,Y,"240,000",Allhomes
+486,"Werrington, NSW 2747",Townhouse,,5,1,3,,Y,Y,Single,,,Y,Y,Y,"380,000",Allhomes
+487,"Penrith, NSW 2750",Townhouse,,2,3,1,,Y,Y,Double,Y,Y,Y,Y,Y,"250,000",Allhomes
+488,"Regentville, NSW 2745",House,55,2,2,2,,Y,,Double,Y,Y,Y,Y,Y,,Allhomes
+489,"Regentville, NSW 2745",Townhouse,,3,2,2,Y,Y,,Single,,Y,Y,Y,,"285,000",Allhomes
+490,"Penrith, NSW 2750",House,775,3,2,,,Y,,,Y,Y,,Y,Y,"1,760,000",Allhomes
+491,"Leonay, NSW 2750",Townhouse,,4,3,1,Y,,Y,Triple,Y,Y,Y,Y,Y,"360,000",Allhomes
+492,"Regentville, NSW 2745",House,118,4,3,1,Y,,Y,Triple,Y,Y,Y,Y,Y,"596,000",Allhomes
+493,"Werrington, NSW 2747",Apartment,543,2,2,2,Y,,,Double,Y,Y,Y,Y,Y,"1,321,000",Allhomes
+494,"Regentville, NSW 2745",Townhouse,,5,1,1,Y,,,Double,Y,Y,Y,Y,Y,"335,000",Allhomes
+495,"Werrington, NSW 2747",Apartment,103,3,3,3,Y,,,Double,Y,Y,Y,Y,,"541,000",Allhomes
+496,"Penrith, NSW 2750",House,540,2,1,3,Y,Y,,Triple,Y,Y,Y,Y,Y,"1,305,000",Allhomes
+497,"Regentville, NSW 2745",Townhouse,,4,1,1,,,,Single,Y,,Y,Y,Y,"275,000",Allhomes
+498,"Penrith, NSW 2750",Apartment,853,4,2,,Y,,,,Y,,Y,Y,Y,"1,976,000",Allhomes
+499,"Leonay, NSW 2750",Townhouse,,4,1,,Y,,Y,,,Y,Y,Y,Y,"255,000",Allhomes
+500,"Werrington, NSW 2747",House,70,5,3,2,,,,Double,,Y,Y,Y,Y,"545,000",Allhomes
+501,"Leonay, NSW 2750",Apartment,999,4,2,,,Y,,,Y,Y,Y,Y,Y,"2,258,000",Allhomes
+502,"Penrith, NSW 2750",Apartment,997,4,1,2,,Y,Y,Triple,Y,Y,Y,Y,,"2,304,000",Allhomes
+503,"Penrith, NSW 2750",House,437,2,2,,,Y,,,Y,Y,Y,Y,Y,"1,034,000",Allhomes
+504,"Penrith, NSW 2750",House,851,5,2,,,Y,Y,,Y,Y,Y,Y,Y,"2,027,000",Allhomes
+505,"Leonay, NSW 2750",Townhouse,,5,1,2,,,Y,Double,Y,Y,Y,Y,Y,"360,000",Allhomes
+506,"Penrith, NSW 2750",House,193,5,3,2,,,,Triple,Y,Y,Y,Y,Y,"791,000",Allhomes
+507,"Penrith, NSW 2750",Apartment,656,1,1,2,Y,,,Double,,Y,,Y,Y,"1,467,000",Allhomes
+508,"Penrith, NSW 2750",Apartment,821,4,3,1,,,Y,Triple,Y,Y,Y,Y,Y,"1,992,000",Allhomes
+509,"Regentville, NSW 2745",Apartment,930,2,1,3,,,,Single,,Y,Y,Y,Y,,Allhomes
+510,"Penrith, NSW 2750",Apartment,347,1,1,3,Y,,,Single,Y,,Y,Y,Y,,Allhomes
+511,"Regentville, NSW 2745",Apartment,332,1,2,3,,Y,,Double,Y,Y,Y,Y,Y,,Allhomes
+512,"Werrington, NSW 2747",House,737,4,3,3,Y,Y,Y,Double,Y,Y,Y,Y,Y,"1,874,000",Allhomes
+513,"Leonay, NSW 2750",Townhouse,,2,1,2,Y,Y,Y,Single,,Y,,Y,Y,"220,000",Allhomes
+514,"Leonay, NSW 2750",Apartment,707,2,2,3,,Y,Y,Double,Y,Y,Y,Y,Y,"1,674,000",Allhomes
+515,"Penrith, NSW 2750",House,489,1,1,,Y,Y,,,Y,Y,Y,Y,Y,"1,068,000",Allhomes
+516,"Penrith, NSW 2750",Townhouse,,3,1,3,,,,Double,Y,Y,Y,Y,Y,"265,000",Allhomes
+517,"Leonay, NSW 2750",House,648,5,3,1,,,Y,Triple,Y,Y,Y,Y,Y,"1,696,000",Allhomes
+518,"Leonay, NSW 2750",House,844,4,3,3,,,Y,Single,Y,Y,Y,Y,Y,"2,078,000",Allhomes
+519,"Penrith, NSW 2750",House,132,5,3,3,Y,Y,,Single,,Y,Y,Y,Y,"699,000",Allhomes
+520,"Leonay, NSW 2750",Apartment,886,4,3,,,,,,Y,Y,Y,Y,Y,"2,062,000",Allhomes
+521,"Regentville, NSW 2745",Townhouse,,3,1,1,Y,Y,Y,Single,Y,,Y,Y,Y,"250,000",Allhomes
+522,"Regentville, NSW 2745",House,178,1,2,,Y,Y,Y,,Y,Y,Y,Y,Y,"491,000",Allhomes
+523,"Leonay, NSW 2750",Townhouse,,3,1,3,Y,Y,,Double,,Y,Y,Y,Y,"275,000",Allhomes
+524,"Leonay, NSW 2750",Townhouse,,5,1,1,,,Y,Triple,Y,,Y,,Y,"340,000",Allhomes
+525,"Werrington, NSW 2747",Apartment,801,3,2,2,Y,Y,,Triple,Y,Y,Y,Y,Y,"1,887,000",Allhomes
+526,"Penrith, NSW 2750",Townhouse,,3,2,1,Y,,,Double,Y,Y,Y,,Y,"265,000",Allhomes
+527,"Leonay, NSW 2750",Apartment,987,4,1,2,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"2,294,000",Allhomes
+528,"Penrith, NSW 2750",House,970,4,2,1,Y,,Y,Double,Y,Y,Y,Y,Y,"2,270,000",Allhomes
+529,"Leonay, NSW 2750",House,650,5,2,1,,Y,,Single,Y,,Y,Y,Y,"1,655,000",Allhomes
+530,"Regentville, NSW 2745",Apartment,397,1,3,,,Y,Y,,Y,Y,Y,Y,Y,"949,000",Allhomes
+531,"Leonay, NSW 2750",Apartment,516,1,2,1,,,,Double,Y,Y,Y,Y,Y,"1,187,000",Allhomes
+532,"Leonay, NSW 2750",House,128,1,3,1,,Y,,Double,,Y,Y,Y,Y,"441,000",Allhomes
+533,"Leonay, NSW 2750",Townhouse,,2,3,1,,,,Single,,Y,Y,Y,Y,"235,000",Allhomes
+534,"Werrington, NSW 2747",House,791,3,1,,,Y,,,Y,Y,Y,Y,Y,"1,762,000",Allhomes
+535,"Werrington, NSW 2747",Apartment,309,1,3,1,,,,Triple,Y,Y,Y,Y,Y,"803,000",Allhomes
+536,"Regentville, NSW 2745",Townhouse,,3,2,,,,,,,Y,Y,Y,Y,"210,000",Allhomes
+537,"Regentville, NSW 2745",Townhouse,,4,1,,Y,,,,Y,Y,Y,,,"240,000",Allhomes
+538,"Werrington, NSW 2747",Apartment,327,3,2,3,Y,,,Triple,Y,Y,Y,Y,Y,"959,000",Allhomes
+539,"Regentville, NSW 2745",House,491,2,3,1,,Y,,Double,Y,,Y,,Y,"1,217,000",Allhomes
+540,"Regentville, NSW 2745",Apartment,815,5,2,,Y,,Y,,Y,Y,Y,Y,Y,,Allhomes
+541,"Leonay, NSW 2750",Townhouse,,5,3,,,,,,,Y,Y,Y,Y,,Allhomes
+542,"Penrith, NSW 2750",House,999,2,3,2,Y,,,Single,Y,Y,Y,Y,Y,"2,263,000",Allhomes
+543,"Werrington, NSW 2747",Townhouse,,3,3,1,,Y,,Double,Y,Y,Y,Y,Y,"285,000",Allhomes
+544,"Werrington, NSW 2747",Apartment,74,1,1,2,,Y,,Triple,Y,Y,Y,Y,Y,"293,000",Allhomes
+545,"Werrington, NSW 2747",House,478,5,3,,Y,Y,,,Y,Y,Y,Y,Y,"1,306,000",Allhomes
+546,"Regentville, NSW 2745",Townhouse,,5,3,2,,Y,,Triple,Y,Y,Y,Y,Y,"405,000",Allhomes
+547,"Werrington, NSW 2747",Townhouse,,5,1,2,Y,,,Triple,Y,Y,Y,,Y,"355,000",Allhomes
+548,"Regentville, NSW 2745",House,606,5,3,3,,,,Triple,Y,Y,Y,Y,Y,"1,637,000",Allhomes
+549,"Werrington, NSW 2747",Apartment,474,1,1,3,,Y,Y,Single,Y,,Y,Y,Y,"1,128,000",Allhomes
+550,"Leonay, NSW 2750",House,749,2,2,3,Y,,,Double,Y,Y,Y,Y,Y,"1,753,000",Allhomes
+551,"Leonay, NSW 2750",Townhouse,,2,2,,,,Y,,Y,Y,Y,Y,Y,,Allhomes
+552,"Penrith, NSW 2750",Townhouse,,3,3,,,,,,Y,Y,Y,Y,Y,"240,000",Allhomes
+553,"Penrith, NSW 2750",Apartment,372,2,2,3,Y,,,Single,Y,Y,Y,Y,,"999,000",Allhomes
+554,"Werrington, NSW 2747",Apartment,416,2,2,1,Y,,Y,Triple,Y,Y,Y,Y,Y,,Allhomes
+555,"Leonay, NSW 2750",Townhouse,,3,3,2,,Y,Y,Single,Y,Y,,Y,Y,"320,000",Allhomes
+556,"Leonay, NSW 2750",House,612,3,3,1,,Y,,Triple,Y,Y,,Y,Y,"1,509,000",Allhomes
+557,"Leonay, NSW 2750",Townhouse,,3,3,3,Y,,Y,Double,Y,Y,Y,Y,Y,"350,000",Allhomes
+558,"Leonay, NSW 2750",Apartment,687,4,2,1,,Y,,Double,Y,Y,Y,Y,Y,"1,679,000",Allhomes
+559,"Regentville, NSW 2745",Townhouse,,5,2,3,,,,Triple,Y,Y,Y,Y,Y,,Allhomes
+560,"Regentville, NSW 2745",Townhouse,,5,3,1,Y,,,Triple,Y,Y,Y,Y,Y,"395,000",Allhomes
+561,"Penrith, NSW 2750",Apartment,932,3,2,2,Y,Y,,Single,Y,Y,Y,Y,Y,"2,149,000",Allhomes
+562,"Regentville, NSW 2745",House,582,2,1,,,,Y,,Y,Y,Y,Y,Y,"1,309,000",Allhomes
+563,"Werrington, NSW 2747",House,586,2,2,,,,Y,,Y,Y,Y,Y,Y,"1,347,000",Allhomes
+564,"Werrington, NSW 2747",Apartment,217,3,3,,,,Y,,Y,Y,Y,Y,Y,"689,000",Allhomes
+565,"Penrith, NSW 2750",House,798,3,2,,,,Y,,Y,Y,Y,Y,,"1,821,000",Allhomes
+566,"Penrith, NSW 2750",House,787,5,3,2,,Y,Y,Single,Y,Y,Y,Y,Y,,Allhomes
+567,"Werrington, NSW 2747",House,897,4,3,1,,Y,Y,Double,Y,Y,Y,Y,Y,"2,144,000",Allhomes
+568,"Penrith, NSW 2750",House,540,2,2,1,Y,Y,,Single,Y,Y,Y,Y,Y,"1,295,000",Allhomes
+569,"Penrith, NSW 2750",Townhouse,,1,1,,,,,,,Y,Y,Y,Y,"80,000",Allhomes
+570,"Regentville, NSW 2745",House,310,4,3,1,Y,Y,,Single,Y,Y,Y,Y,Y,"965,000",Allhomes
+571,"Leonay, NSW 2750",Townhouse,,3,3,1,,,,Single,Y,Y,Y,Y,Y,"285,000",Allhomes
+572,"Penrith, NSW 2750",House,425,5,1,1,Y,,Y,Double,Y,Y,Y,Y,Y,"1,200,000",Allhomes
+573,"Regentville, NSW 2745",Townhouse,,5,3,,,Y,Y,,Y,Y,Y,Y,Y,"355,000",Allhomes
+574,"Penrith, NSW 2750",Apartment,797,1,1,1,Y,,Y,Triple,Y,Y,Y,Y,Y,"1,744,000",Allhomes
+575,"Regentville, NSW 2745",Apartment,643,3,2,3,Y,,,Triple,Y,Y,Y,Y,Y,"1,591,000",Allhomes
+576,"Penrith, NSW 2750",Apartment,433,1,3,,,Y,,,,Y,,Y,Y,"1,006,000",Allhomes
+577,"Werrington, NSW 2747",Townhouse,,3,1,,Y,,Y,,Y,Y,Y,Y,Y,"205,000",Allhomes
+578,"Werrington, NSW 2747",Townhouse,,1,3,,Y,Y,Y,,,,Y,Y,Y,"165,000",Allhomes
+579,"Regentville, NSW 2745",Apartment,183,5,2,,,Y,,,Y,Y,Y,Y,Y,,Allhomes
+580,"Werrington, NSW 2747",Apartment,333,3,3,1,,,,Double,Y,Y,Y,Y,Y,"951,000",Allhomes
+581,"Regentville, NSW 2745",Apartment,377,3,2,2,Y,Y,Y,Double,Y,Y,Y,Y,Y,"1,054,000",Allhomes
+582,"Regentville, NSW 2745",Townhouse,,5,3,2,Y,,,Triple,,Y,Y,Y,Y,"415,000",Allhomes
+583,"Werrington, NSW 2747",Townhouse,,5,1,1,,Y,,Single,Y,Y,Y,Y,Y,"325,000",Allhomes
+584,"Penrith, NSW 2750",House,273,3,3,1,,,Y,Single,Y,Y,Y,Y,Y,"846,000",Allhomes
+585,"Penrith, NSW 2750",House,73,4,3,1,,Y,,Double,Y,Y,Y,Y,Y,"481,000",Allhomes
+586,"Penrith, NSW 2750",Apartment,296,3,2,2,Y,,Y,Single,Y,Y,Y,Y,Y,"892,000",Allhomes
+587,"Penrith, NSW 2750",Apartment,802,5,1,1,,,,Double,Y,Y,Y,Y,Y,"1,929,000",Allhomes
+588,"Leonay, NSW 2750",Townhouse,,5,1,1,,,,Single,Y,Y,Y,Y,Y,"325,000",Allhomes
+589,"Leonay, NSW 2750",Apartment,389,5,1,,Y,Y,Y,,Y,Y,Y,Y,Y,"1,083,000",Allhomes
+590,"Leonay, NSW 2750",Townhouse,,2,3,1,Y,Y,Y,Single,Y,Y,Y,Y,Y,"260,000",Allhomes
+591,"Leonay, NSW 2750",House,709,3,1,,,,,,Y,Y,Y,Y,Y,"1,598,000",Allhomes
+592,"Penrith, NSW 2750",Apartment,775,2,3,,,,Y,,Y,Y,Y,Y,Y,"1,755,000",Allhomes
+593,"Leonay, NSW 2750",House,265,4,1,1,,Y,Y,Double,Y,Y,Y,Y,Y,"820,000",Allhomes
+594,"Werrington, NSW 2747",Apartment,513,2,3,1,,,,Double,Y,Y,Y,Y,Y,"1,261,000",Allhomes
+595,"Leonay, NSW 2750",House,220,5,2,,Y,Y,,,Y,Y,Y,,,"760,000",Allhomes
+596,"Penrith, NSW 2750",Apartment,884,2,2,2,Y,,Y,Double,Y,Y,Y,Y,,"2,018,000",Allhomes
+597,"Regentville, NSW 2745",Apartment,846,5,2,1,Y,,Y,Triple,Y,Y,,Y,Y,"2,072,000",Allhomes
+598,"Werrington, NSW 2747",Townhouse,,1,2,,,Y,,,Y,Y,Y,Y,Y,"110,000",Allhomes
+599,"Regentville, NSW 2745",House,877,3,2,1,,Y,Y,Triple,Y,Y,Y,Y,Y,"2,024,000",Allhomes
+600,"Leonay, NSW 2750",Apartment,592,2,3,1,,,,Double,Y,Y,Y,Y,Y,"1,419,000",Allhomes
+601,"Penrith, NSW 2750",Townhouse,,3,1,3,,Y,,Single,Y,Y,Y,Y,Y,"265,000",Allhomes
+602,"Leonay, NSW 2750",House,228,1,3,,Y,,Y,,Y,,Y,,Y,"621,000",Allhomes
+603,"Penrith, NSW 2750",House,635,3,1,,Y,Y,Y,,Y,Y,,Y,,"1,475,000",Allhomes
+604,"Werrington, NSW 2747",Apartment,501,3,2,1,,,Y,Double,Y,Y,Y,Y,Y,"1,272,000",Allhomes
+605,"Werrington, NSW 2747",House,800,5,2,1,Y,,,Triple,Y,Y,Y,Y,Y,"1,965,000",Allhomes
+606,"Regentville, NSW 2745",Townhouse,,4,3,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"360,000",Allhomes
+607,"Werrington, NSW 2747",House,616,2,1,3,Y,,Y,Double,Y,Y,Y,Y,Y,"1,472,000",Allhomes
+608,"Regentville, NSW 2745",Townhouse,,5,2,,Y,Y,Y,,Y,Y,Y,Y,,"335,000",Allhomes
+609,"Regentville, NSW 2745",Apartment,952,1,1,,,Y,,,Y,Y,Y,Y,Y,"1,984,000",Allhomes
+610,"Werrington, NSW 2747",Apartment,789,5,2,3,,,,Double,Y,Y,Y,Y,Y,"1,973,000",Allhomes
+611,"Penrith, NSW 2750",House,576,3,1,3,,Y,,Double,Y,Y,Y,Y,Y,"1,417,000",Allhomes
+612,"Leonay, NSW 2750",Townhouse,,4,2,3,Y,,,Single,Y,Y,Y,Y,Y,"355,000",Allhomes
+613,"Werrington, NSW 2747",House,90,5,2,3,Y,,Y,Single,Y,Y,,Y,Y,"600,000",Allhomes
+614,"Penrith, NSW 2750",House,386,1,1,1,Y,,Y,Single,Y,Y,Y,Y,Y,"922,000",Allhomes
+615,"Penrith, NSW 2750",House,635,5,1,1,Y,,Y,Single,Y,Y,Y,Y,Y,"1,620,000",Allhomes
+616,"Leonay, NSW 2750",House,784,4,2,2,Y,Y,Y,Single,,Y,Y,Y,Y,"1,918,000",Allhomes
+617,"Regentville, NSW 2745",Townhouse,,4,1,2,Y,Y,,Double,Y,Y,Y,Y,Y,"305,000",Allhomes
+618,"Werrington, NSW 2747",House,529,5,3,1,Y,Y,,Single,Y,Y,Y,,Y,,Allhomes
+619,"Regentville, NSW 2745",Townhouse,,1,3,1,,Y,Y,Triple,Y,Y,Y,Y,Y,"200,000",Allhomes
+620,"Werrington, NSW 2747",House,879,1,1,,,Y,,,Y,Y,Y,Y,Y,"1,838,000",Allhomes
+621,"Penrith, NSW 2750",Apartment,197,1,2,2,,Y,,Single,Y,Y,,Y,Y,,Allhomes
+622,"Regentville, NSW 2745",Townhouse,,4,1,1,Y,,,Double,Y,Y,Y,Y,Y,"285,000",Allhomes
+623,"Werrington, NSW 2747",House,777,2,2,,,,,,Y,Y,,Y,Y,,Allhomes
+624,"Leonay, NSW 2750",Townhouse,,1,2,3,Y,,Y,Triple,Y,Y,Y,Y,Y,"220,000",Allhomes
+625,"Penrith, NSW 2750",Apartment,661,3,2,3,Y,,Y,Double,Y,,Y,Y,Y,"1,642,000",Allhomes
+626,"Werrington, NSW 2747",Townhouse,,5,3,3,,Y,,Triple,Y,Y,Y,Y,Y,"425,000",Allhomes
+627,"Penrith, NSW 2750",House,696,3,1,2,,Y,Y,Single,Y,Y,Y,Y,Y,"1,652,000",Allhomes
+628,"Regentville, NSW 2745",Townhouse,,5,2,,Y,Y,Y,,Y,Y,,Y,Y,"335,000",Allhomes
+629,"Penrith, NSW 2750",Apartment,942,3,3,1,,Y,,Triple,Y,Y,Y,Y,Y,"2,169,000",Allhomes
+630,"Werrington, NSW 2747",House,683,1,1,2,,Y,Y,Double,Y,Y,Y,Y,Y,"1,526,000",Allhomes
+631,"Leonay, NSW 2750",Apartment,263,1,2,,,,Y,,Y,Y,Y,Y,Y,"651,000",Allhomes
+632,"Regentville, NSW 2745",House,316,1,3,3,,Y,,Single,Y,Y,Y,Y,,,Allhomes
+633,"Penrith, NSW 2750",House,161,4,1,1,,Y,,Single,Y,Y,Y,Y,Y,"597,000",Allhomes
+634,"Werrington, NSW 2747",Apartment,728,4,3,2,,Y,Y,Single,Y,,,,Y,"1,826,000",Allhomes
+635,"Regentville, NSW 2745",Apartment,495,2,2,,Y,,,,Y,,Y,,Y,"1,160,000",Allhomes
+636,"Penrith, NSW 2750",House,119,5,1,1,,,Y,Single,Y,Y,Y,Y,Y,"578,000",Allhomes
+637,"Regentville, NSW 2745",Apartment,635,1,2,3,Y,,Y,Single,Y,Y,Y,,Y,"1,490,000",Allhomes
+638,"Regentville, NSW 2745",Apartment,526,1,1,1,,,,Triple,Y,Y,Y,Y,Y,"1,177,000",Allhomes
+639,"Werrington, NSW 2747",House,451,5,2,3,,,Y,Double,Y,Y,Y,,,"1,312,000",Allhomes
+640,"Regentville, NSW 2745",House,574,1,2,2,Y,,,Triple,Y,Y,Y,Y,,"1,333,000",Allhomes
+641,"Penrith, NSW 2750",House,841,2,1,,,Y,Y,,Y,Y,Y,Y,Y,"1,827,000",Allhomes
+642,"Regentville, NSW 2745",House,846,3,2,3,Y,Y,,Triple,Y,Y,Y,Y,Y,"1,997,000",Allhomes
+643,"Leonay, NSW 2750",Apartment,534,4,2,2,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"1,418,000",Allhomes
+644,"Penrith, NSW 2750",House,832,5,1,,,Y,,,Y,Y,Y,Y,,"1,944,000",Allhomes
+645,"Werrington, NSW 2747",Townhouse,,4,3,2,Y,,,Triple,Y,Y,Y,Y,,,Allhomes
+646,"Leonay, NSW 2750",House,712,5,1,3,,,Y,Single,Y,Y,Y,Y,Y,"1,804,000",Allhomes
+647,"Leonay, NSW 2750",Apartment,304,4,3,,,,,,Y,Y,Y,Y,Y,"898,000",Allhomes
+648,"Penrith, NSW 2750",House,570,4,1,1,Y,Y,,Double,Y,Y,Y,Y,Y,"1,425,000",Allhomes
+649,"Regentville, NSW 2745",House,667,5,2,1,,,Y,Triple,Y,,Y,Y,Y,"1,704,000",Allhomes
+650,"Penrith, NSW 2750",House,356,2,3,,,,,,Y,Y,Y,Y,Y,"902,000",Allhomes
+651,"Penrith, NSW 2750",Apartment,53,2,1,2,,Y,,Single,Y,Y,Y,Y,Y,"301,000",Allhomes
+652,"Regentville, NSW 2745",Townhouse,,1,3,1,Y,,Y,Single,Y,Y,Y,Y,Y,"210,000",Allhomes
+653,"Penrith, NSW 2750",Apartment,637,4,1,1,,,,Triple,Y,Y,Y,Y,Y,"1,549,000",Allhomes
+654,"Werrington, NSW 2747",Townhouse,,2,2,2,,,Y,Single,Y,Y,,Y,Y,"240,000",Allhomes
+655,"Regentville, NSW 2745",Townhouse,,2,1,3,,Y,Y,Triple,Y,Y,Y,,,"230,000",Allhomes
+656,"Regentville, NSW 2745",Townhouse,,2,3,3,,,Y,Single,Y,Y,Y,Y,Y,,Allhomes
+657,"Penrith, NSW 2750",Apartment,975,4,3,1,Y,Y,Y,Single,Y,,Y,Y,Y,"2,310,000",Allhomes
+658,"Penrith, NSW 2750",House,757,4,3,1,Y,Y,,Single,Y,Y,Y,Y,Y,"1,859,000",Allhomes
+659,"Werrington, NSW 2747",House,86,5,3,1,Y,,Y,Triple,Y,Y,Y,Y,Y,"582,000",Allhomes
+660,"Leonay, NSW 2750",Townhouse,,4,1,3,,Y,,Double,Y,Y,Y,Y,Y,"315,000",Allhomes
+661,"Leonay, NSW 2750",Townhouse,,2,2,1,Y,Y,,Single,Y,,Y,Y,Y,"215,000",Allhomes
+662,"Werrington, NSW 2747",Townhouse,,5,2,,,,,,,Y,Y,Y,Y,"310,000",Allhomes
+663,"Penrith, NSW 2750",House,727,3,3,2,Y,,Y,Single,Y,Y,Y,Y,Y,"1,784,000",Allhomes
+664,"Leonay, NSW 2750",Townhouse,,4,2,3,,Y,Y,Double,Y,Y,Y,Y,Y,"360,000",Allhomes
+665,"Penrith, NSW 2750",Townhouse,,4,2,1,Y,,,Triple,Y,Y,Y,Y,Y,"315,000",Allhomes
+666,"Regentville, NSW 2745",House,433,1,1,,,Y,,,Y,Y,Y,,Y,"946,000",Allhomes
+667,"Leonay, NSW 2750",Townhouse,,5,3,3,,,,Triple,Y,Y,Y,Y,Y,"425,000",Allhomes
+668,"Regentville, NSW 2745",Apartment,422,5,1,2,Y,Y,Y,Triple,Y,,Y,Y,Y,"1,214,000",Allhomes
+669,"Werrington, NSW 2747",Apartment,364,4,1,,,Y,Y,,Y,Y,Y,Y,Y,,Allhomes
+670,"Regentville, NSW 2745",House,515,5,2,2,,Y,,Double,Y,Y,Y,Y,Y,"1,405,000",Allhomes
+671,"Penrith, NSW 2750",Apartment,245,5,1,3,Y,Y,Y,Single,Y,,Y,Y,Y,,Allhomes
+672,"Leonay, NSW 2750",Apartment,847,3,3,2,,,,Triple,Y,Y,Y,Y,Y,,Allhomes
+673,"Regentville, NSW 2745",House,775,3,3,,Y,,,,Y,Y,Y,Y,Y,,Allhomes
+674,"Regentville, NSW 2745",Townhouse,,3,2,2,Y,,Y,Triple,Y,Y,Y,Y,Y,"300,000",Allhomes
+675,"Regentville, NSW 2745",Townhouse,,1,1,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"150,000",Allhomes
+676,"Regentville, NSW 2745",Apartment,560,1,3,,,Y,Y,,,Y,Y,Y,Y,"1,275,000",Allhomes
+677,"Penrith, NSW 2750",Apartment,216,4,1,3,,Y,Y,Triple,Y,Y,Y,Y,,"762,000",Allhomes
+678,"Werrington, NSW 2747",House,360,4,3,3,,Y,,Double,Y,Y,Y,Y,Y,"1,095,000",Allhomes
+679,"Werrington, NSW 2747",Apartment,407,4,3,1,Y,Y,Y,Single,,Y,,Y,Y,"1,174,000",Allhomes
+680,"Leonay, NSW 2750",Apartment,528,3,3,2,,,,Single,Y,Y,Y,Y,Y,"1,361,000",Allhomes
+681,"Werrington, NSW 2747",Apartment,605,2,1,1,,Y,Y,Triple,Y,Y,Y,Y,Y,"1,400,000",Allhomes
+682,"Penrith, NSW 2750",House,706,5,2,3,,Y,,Triple,Y,Y,Y,Y,Y,"1,807,000",Allhomes
+683,"Leonay, NSW 2750",Apartment,780,5,3,,,Y,Y,,Y,,Y,,Y,"1,915,000",Allhomes
+684,"Leonay, NSW 2750",House,217,3,3,3,Y,Y,Y,Double,Y,Y,,Y,,"784,000",Allhomes
+685,"Leonay, NSW 2750",Apartment,469,1,3,,Y,,,,,Y,Y,Y,Y,"1,088,000",Allhomes
+686,"Regentville, NSW 2745",Townhouse,,2,2,2,,Y,Y,Single,Y,Y,Y,Y,Y,"240,000",Allhomes
+687,"Leonay, NSW 2750",Townhouse,,1,1,,Y,Y,,,Y,Y,Y,,Y,"90,000",Allhomes
+688,"Penrith, NSW 2750",Apartment,689,5,3,2,,Y,Y,Single,Y,Y,Y,Y,Y,"1,798,000",Allhomes
+689,"Penrith, NSW 2750",Apartment,211,3,3,2,,,Y,Triple,Y,,Y,,Y,"742,000",Allhomes
+690,"Werrington, NSW 2747",House,995,1,3,2,Y,Y,Y,Triple,Y,Y,Y,,Y,"2,220,000",Allhomes
+691,"Werrington, NSW 2747",Apartment,263,4,1,2,Y,Y,Y,Single,Y,Y,Y,Y,Y,"846,000",Allhomes
+692,"Leonay, NSW 2750",Townhouse,,2,2,1,,,,Double,Y,Y,,,Y,"205,000",Allhomes
+693,"Penrith, NSW 2750",Townhouse,,4,2,2,,,,Double,Y,Y,Y,Y,Y,"325,000",Allhomes
+694,"Penrith, NSW 2750",House,876,5,3,3,Y,Y,Y,Triple,Y,Y,Y,Y,Y,"2,202,000",Allhomes
+695,"Regentville, NSW 2745",House,971,2,3,,,,Y,,Y,Y,Y,Y,Y,"2,147,000",Allhomes
+696,"Penrith, NSW 2750",Apartment,400,3,1,3,,Y,,Double,Y,Y,Y,Y,Y,"1,065,000",Allhomes
+697,"Penrith, NSW 2750",House,572,1,2,1,,,,Double,Y,Y,Y,Y,Y,,Allhomes
+698,"Penrith, NSW 2750",Townhouse,,3,3,1,Y,Y,Y,Triple,Y,Y,Y,Y,Y,310000,Allhomes
+699,"Werrington, NSW 2747",Townhouse,,4,3,2,,Y,Y,Double,Y,Y,Y,,Y,370000,Allhomes
+700,"Werrington, NSW 2747",Apartment,237,5,3,1,,,Y,Triple,Y,Y,Y,Y,Y,874000,Allhomes
